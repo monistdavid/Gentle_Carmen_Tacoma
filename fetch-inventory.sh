@@ -52,3 +52,6 @@ done
 
 cat inventory.jsonl | jq -s '.' > inventory.json
 rm inventory.jsonl
+
+python combine.py
+rm inventory.json
