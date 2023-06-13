@@ -4,7 +4,7 @@ import json
 def merge_csv_json(csv_file, json_file, output_file):
     # Read the CSV file and create a dictionary with dealerId as the key
     csv_data = {}
-    with open(csv_file, 'r') as csvfile:
+    with open(csv_file, 'r', encoding='utf-8') as csvfile:
         csvreader = csv.reader(csvfile)
         for row in csvreader:
             dealer_id = row[0]
@@ -15,12 +15,18 @@ def merge_csv_json(csv_file, json_file, output_file):
 
     # Read the JSON file and merge lines with the same dealerId
     merged_data = []
-    with open(json_file, 'r') as jsonfile:
+    with open(json_file, 'r', encoding='utf-8') as jsonfile:
         json_data = json.load(jsonfile)
         for item in json_data:
             dealer_id = item['dealer']
             if dealer_id in csv_data:
-                merged_item = {**item, **csv_data[dealer_id]}
+                merged_item = {
+                    'dealer': dealer_id,
+                    'dealer_name': csv_data[dealer_id]['dealerName'],
+                    'dealer_url': csv_data[dealer_id]['dealerURL'],
+                    'dealer_state': csv_data[dealer_id]['state'],
+                    **item
+                }
                 merged_data.append(merged_item)
 
     # Write the merged data to a new JSON file
