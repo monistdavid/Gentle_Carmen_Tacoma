@@ -36,6 +36,6 @@ def merge_csv_json(csv_file, json_file, output_file):
 # Usage
 csv_file = 'dealers.csv'
 json_file = 'inventory.json'
-output_file = 'merged_data.json'
+output_file = 'inventory.json'
 
 merge_csv_json(csv_file, json_file, output_file)
