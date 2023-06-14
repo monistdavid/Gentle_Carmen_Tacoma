@@ -1,6 +1,7 @@
 import csv
 import json
 
+
 def merge_csv_json(csv_file, json_file, output_file):
     # Read the CSV file and create a dictionary with dealerId as the key
     csv_data = {}
@@ -32,6 +33,7 @@ def merge_csv_json(csv_file, json_file, output_file):
     # Write the merged data to a new JSON file
     with open(output_file, 'w') as outfile:
         json.dump(merged_data, outfile, indent=2)
+
 
 # Usage
 csv_file = 'dealers.csv'
