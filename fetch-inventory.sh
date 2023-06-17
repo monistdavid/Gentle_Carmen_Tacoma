@@ -21,9 +21,7 @@ do
           "series": ["sienna"],
           "dealers": ["'$i'"],
           "andfields": ["accessory", "packages", "dealer"]
-        },
-      "phone": "'$phone'",
-      "email": "'$email'"
+        }
     }' \
   https://www.toyota.com/config/services/inventory/search/getInventory \
   | jq -c \
@@ -31,8 +29,6 @@ do
       | .[] 
       | {
           dealer: "'$i'",
-          phone: "'$phone'",
-          email: "'$email'",
           vin: .vin,
           year: .year.code,
           vehicle: .grade.series_code,

@@ -12,7 +12,10 @@ def merge_csv_json(csv_file, json_file, output_file):
             dealer_name = row[2]
             dealer_url = row[3]
             dealer_state = row[5]
-            csv_data[dealer_id] = {'dealerName': dealer_name, 'dealerURL': dealer_url, 'state': dealer_state}
+            dealer_phone = row[-2]
+            dealer_address = row[-1]
+            csv_data[dealer_id] = {'dealerName': dealer_name, 'dealerURL': dealer_url, 'state': dealer_state,
+                                   'dealerPhone': dealer_phone, 'dealerAddress': dealer_address}
 
     # Read the JSON file and merge lines with the same dealerId
     merged_data = []
@@ -26,6 +29,8 @@ def merge_csv_json(csv_file, json_file, output_file):
                     'dealer_name': csv_data[dealer_id]['dealerName'],
                     'dealer_url': csv_data[dealer_id]['dealerURL'],
                     'dealer_state': csv_data[dealer_id]['state'],
+                    'dealerPhone': csv_data[dealer_id]['dealerPhone'],
+                    'dealerAddress': csv_data[dealer_id]['dealerAddress'],
                     **item
                 }
                 merged_data.append(merged_item)
