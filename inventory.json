@@ -21,8 +21,8 @@
     "total_msrp": "56195.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Spare tire, Platinum Package, Door Sill Protectors[installed_msrp], Special Color, Entertainment Package, Carpet Floor Mat Package[installed_msrp], 50 State Emissions, 1500W inverter [120v_cargo], Owner's Portfolio",
-    "created_at": "2023-08-05 11:25:58"
+    "packages": "Platinum Package, Spare tire, Entertainment Package, 50 State Emissions, 1500W inverter [120v_cargo], Door Sill Protectors[installed_msrp], Owner's Portfolio, Special Color, Carpet Floor Mat Package[installed_msrp]",
+    "created_at": "2023-08-06 11:26:13"
   },
   {
     "dealer": "27022",
@@ -46,8 +46,8 @@
     "total_msrp": "56245.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Carpet Floor Mat Package[installed_msrp], Entertainment Package, Owner's Portfolio, 50 State Emissions, 1500W inverter [120v_cargo], Spare tire, Alloy Wheel Locks[installed_msrp], Roof Rack Cross Bars[installed_msrp], Door Sill Protectors[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Platinum Package",
-    "created_at": "2023-08-05 11:25:58"
+    "packages": "Owner's Portfolio, Alloy Wheel Locks[installed_msrp], Carpet Floor Mat Package[installed_msrp], Door Sill Protectors[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Entertainment Package, Spare tire, Roof Rack Cross Bars[installed_msrp], 1500W inverter [120v_cargo], Platinum Package, 50 State Emissions",
+    "created_at": "2023-08-06 11:26:13"
   },
   {
     "dealer": "27022",
@@ -71,8 +71,33 @@
     "total_msrp": "56405.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Special Color, Roof Rack Cross Bars[installed_msrp], Door Sill Protectors[installed_msrp], Carpet Floor Mat Package[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, Platinum Package, Owner's Portfolio, Entertainment Package, Spare tire",
-    "created_at": "2023-08-05 11:25:58"
+    "packages": "Carpet Floor Mat Package[installed_msrp], Special Color, Roof Rack Cross Bars[installed_msrp], 50 State Emissions, Owner's Portfolio, 1500W inverter [120v_cargo], Door Sill Protectors[installed_msrp], Entertainment Package, Spare tire, Platinum Package",
+    "created_at": "2023-08-06 11:26:13"
+  },
+  {
+    "dealer": "04739",
+    "dealer_name": "Toyota of Downtown LA",
+    "dealer_url": "https://www.toyotaofdowntownla.com",
+    "dealer_state": "CA",
+    "dealerPhone": "(505) 722-3881",
+    "dealerAddress": "2000 S. 2nd Street, Gallup NM 87301",
+    "vin": "5TDZRKEC4PS170672",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "limited",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "Front-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Predawn Gray Mica",
+    "interior": "Graphite Leather",
+    "base_msrp": "49145",
+    "total_msrp": "52943.0",
+    "availability_date": null,
+    "total_packages": 9,
+    "packages": "Owner's Portfolio, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Mudguards[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], Entertainment Package, Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo]",
+    "created_at": "2023-08-06 11:26:14"
   },
   {
     "dealer": "04739",
@@ -96,8 +121,8 @@
     "total_msrp": "53018.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Mudguards[installed_msrp], Rear Bumper Applique[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Spare tire, Entertainment Package, Quick Charge Cable Package[installed_msrp], Owner's Portfolio",
-    "created_at": "2023-08-05 11:25:58"
+    "packages": "Mudguards[installed_msrp], Entertainment Package, Rear Bumper Applique[installed_msrp], Owner's Portfolio, 50 State Emissions, Spare tire, Quick Charge Cable Package[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo]",
+    "created_at": "2023-08-06 11:26:14"
   },
   {
     "dealer": "04159",
@@ -121,8 +146,8 @@
     "total_msrp": "54577.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Rear Bumper Applique[installed_msrp], Platinum Package, All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], 50 State Emissions, Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:25:58"
+    "packages": "Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp], Platinum Package, Rear Bumper Applique[installed_msrp]",
+    "created_at": "2023-08-06 11:26:14"
   },
   {
     "dealer": "04649",
@@ -146,8 +171,8 @@
     "total_msrp": "38480.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, 50 State Emissions",
-    "created_at": "2023-08-05 11:25:59"
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio",
+    "created_at": "2023-08-06 11:26:15"
   },
   {
     "dealer": "04136",
@@ -171,17 +196,17 @@
     "total_msrp": "51233.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], 50 State Emissions, Cargo Tray[installed_msrp], Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp], Spare tire",
-    "created_at": "2023-08-05 11:26:00"
+    "packages": "Cargo Tray[installed_msrp], Mudguards[installed_msrp], Spare tire, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], Rear Bumper Applique[installed_msrp]",
+    "created_at": "2023-08-06 11:26:16"
   },
   {
-    "dealer": "04640",
-    "dealer_name": "AutoNation Toyota Buena Park",
-    "dealer_url": "https://www.autonationtoyotabuenapark.com",
+    "dealer": "04013",
+    "dealer_name": "Hamer Toyota",
+    "dealer_url": "https://www.hamertoyota.com",
     "dealer_state": "CA",
-    "dealerPhone": "(626) 400-4505",
-    "dealerAddress": "3600 E. Foothill Blvd., Pasadena CA 91107",
-    "vin": "5TDZRKEC1PS169687",
+    "dealerPhone": "(714) 894-3322",
+    "dealerAddress": "15300 Beach Boulevard, Westminster CA 92683",
+    "vin": "5TDZRKEC1PS170192",
     "year": "2023",
     "vehicle": "sienna",
     "model": "limited",
@@ -190,64 +215,14 @@
     "drivetrain": "Front-Wheel Drive",
     "cab": null,
     "bed": null,
-    "color": "Predawn Gray Mica",
-    "interior": "Graphite Leather",
+    "color": "Midnight Black Metallic",
+    "interior": "Chataeu Leather",
     "base_msrp": "49145",
-    "total_msrp": "53292.0",
-    "availability_date": null,
-    "total_packages": 10,
-    "packages": "Owner's Portfolio, Mudguards[installed_msrp], Entertainment Package, Quick Charge Cable Package[installed_msrp], 50 State Emissions, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp]",
-    "created_at": "2023-08-05 11:26:01"
-  },
-  {
-    "dealer": "04356",
-    "dealer_name": "Toyota Place",
-    "dealer_url": "https://www.toyotaplace.com",
-    "dealer_state": "CA",
-    "dealerPhone": "(877) 653-1093",
-    "dealerAddress": "1800 E Garvey Avenue, West Covina CA 91791",
-    "vin": "5TDDRKEC3PS170124",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "xse",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "Front-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Gray Flannel + Black Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "44445",
-    "total_msrp": "47633.0",
+    "total_msrp": "51082.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Spare tire, XSE Plus Package, 50 State Emissions, 1500W inverter [120v_cargo], Rear Bumper Applique[installed_msrp], Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:26:02"
-  },
-  {
-    "dealer": "04356",
-    "dealer_name": "Toyota Place",
-    "dealer_url": "https://www.toyotaplace.com",
-    "dealer_state": "CA",
-    "dealerPhone": "(877) 653-1093",
-    "dealerAddress": "1800 E Garvey Avenue, West Covina CA 91791",
-    "vin": "5TDZRKEC2PS170279",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "limited",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "Front-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Windchill Pearl [extra_cost_color]",
-    "interior": "Graphite Leather",
-    "base_msrp": "49145",
-    "total_msrp": "53298.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "1500W inverter [120v_cargo], Entertainment Package, Special Color, Rear Bumper Applique[installed_msrp], Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
-    "created_at": "2023-08-05 11:26:02"
+    "packages": "50 State Emissions, Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], Mudguards[installed_msrp], Cargo Net with Pouch[installed_msrp], Spare tire",
+    "created_at": "2023-08-06 11:26:19"
   },
   {
     "dealer": "04013",
@@ -271,8 +246,8 @@
     "total_msrp": "53222.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp]",
-    "created_at": "2023-08-05 11:26:02"
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Rear Bumper Applique[installed_msrp], Entertainment Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 1500W inverter [120v_cargo]",
+    "created_at": "2023-08-06 11:26:19"
   },
   {
     "dealer": "04279",
@@ -296,33 +271,8 @@
     "total_msrp": "48110.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "18-in. Alloy Wheel, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], XLE Plus Package, 1500W inverter [120v_cargo], Entertainment Package",
-    "created_at": "2023-08-05 11:26:05"
-  },
-  {
-    "dealer": "04333",
-    "dealer_name": "Toyota of Redlands",
-    "dealer_url": "https://www.toyotaofredlands.com",
-    "dealer_state": "CA",
-    "dealerPhone": "(909) 571-5082",
-    "dealerAddress": "650 Auto Center Drive, San Bernardino CA 92408",
-    "vin": "5TDZRKEC1PS170886",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "limited",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "Front-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Windchill Pearl [extra_cost_color]",
-    "interior": "Graphite Leather",
-    "base_msrp": "49145",
-    "total_msrp": "51593.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], Spare tire, 50 State Emissions, Quick Charge Cable Package[installed_msrp], Special Color, Mudguards[installed_msrp], Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2023-08-05 11:26:06"
+    "packages": "18-in. Alloy Wheel, 50 State Emissions, XLE Plus Package, Alloy Wheel Locks[installed_msrp], Entertainment Package, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo]",
+    "created_at": "2023-08-06 11:26:23"
   },
   {
     "dealer": "04536",
@@ -346,8 +296,8 @@
     "total_msrp": "54368.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Mudguards[installed_msrp], Platinum Package, Rear Bumper Applique[installed_msrp], Alloy Wheel Locks[installed_msrp], Owner's Portfolio, Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Spare tire",
-    "created_at": "2023-08-05 11:26:06"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Spare tire, Platinum Package, Mudguards[installed_msrp], Rear Bumper Applique[installed_msrp], Quick Charge Cable Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Owner's Portfolio, 50 State Emissions",
+    "created_at": "2023-08-06 11:26:25"
   },
   {
     "dealer": "04290",
@@ -371,8 +321,8 @@
     "total_msrp": "51731.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Integrated Dash Cam[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Spare tire, All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp]",
-    "created_at": "2023-08-05 11:26:10"
+    "packages": "Rear Bumper Applique[installed_msrp], 50 State Emissions, Spare tire, All-Weather Floor Liner Package[installed_msrp], Integrated Dash Cam[installed_msrp], Mudguards[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp]",
+    "created_at": "2023-08-06 11:26:29"
   },
   {
     "dealer": "04290",
@@ -396,8 +346,8 @@
     "total_msrp": "56497.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], 50 State Emissions, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Rear Bumper Applique[installed_msrp], Spare tire, All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package, Platinum Package",
-    "created_at": "2023-08-05 11:26:10"
+    "packages": "Entertainment Package, Mudguards[installed_msrp], Platinum Package, 50 State Emissions, Spare tire, 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Rear Bumper Applique[installed_msrp]",
+    "created_at": "2023-08-06 11:26:29"
   },
   {
     "dealer": "04688",
@@ -422,7 +372,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Alloy Wheel Locks[installed_msrp], 50 State Emissions, Cargo Tray[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:26:13"
+    "created_at": "2023-08-06 11:26:32"
   },
   {
     "dealer": "04563",
@@ -446,8 +396,8 @@
     "total_msrp": "56500.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "1500W inverter [120v_cargo], Entertainment Package, Platinum Package, Spare tire, All-Weather Floor Liner Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], 50 State Emissions",
-    "created_at": "2023-08-05 11:26:15"
+    "packages": "1500W inverter [120v_cargo], 50 State Emissions, Spare tire, Roof Rack Cross Bars[installed_msrp], Entertainment Package, Platinum Package, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2023-08-06 11:26:35"
   },
   {
     "dealer": "04201",
@@ -471,8 +421,8 @@
     "total_msrp": "55029.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Owner's Portfolio, Entertainment Package, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Special Color, Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:26:16"
+    "packages": "Owner's Portfolio, Special Color, 50 State Emissions, Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package",
+    "created_at": "2023-08-06 11:26:36"
   },
   {
     "dealer": "04201",
@@ -496,33 +446,8 @@
     "total_msrp": "56574.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Platinum Package, All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp], Alloy Wheel Locks[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, Owner's Portfolio, Entertainment Package, Spare tire",
-    "created_at": "2023-08-05 11:26:16"
-  },
-  {
-    "dealer": "04265",
-    "dealer_name": "Future Toyota of Yuba City",
-    "dealer_url": "https://www.futuretoyotayubacity.com",
-    "dealer_state": "CA",
-    "dealerPhone": "(530) 622-6232",
-    "dealerAddress": "140 Forni Road, Placerville CA 95667",
-    "vin": "5TDDSKFC2PS097542",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "xse",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ice Cap",
-    "interior": "Gray Flannel + Black Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "45205",
-    "total_msrp": "48564.0",
-    "availability_date": null,
-    "total_packages": 5,
-    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], XSE Plus Package, Protection Package[installed_msrp], 1500W inverter [120v_cargo]",
-    "created_at": "2023-08-05 11:26:18"
+    "packages": "Mudguards[installed_msrp], 1500W inverter [120v_cargo], Quick Charge Cable Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Spare tire, Entertainment Package, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Platinum Package",
+    "created_at": "2023-08-06 11:26:36"
   },
   {
     "dealer": "43025",
@@ -546,8 +471,8 @@
     "total_msrp": "48939.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Entertainment Package, Rear Bumper Applique[installed_msrp], XSE Plus Package, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Door Sill Protectors[installed_msrp], 1500W inverter [120v_cargo], Spare tire",
-    "created_at": "2023-08-05 11:26:22"
+    "packages": "Rear Bumper Applique[installed_msrp], Entertainment Package, Door Sill Protectors[installed_msrp], Spare tire, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, XSE Plus Package",
+    "created_at": "2023-08-06 11:26:44"
   },
   {
     "dealer": "36103",
@@ -571,8 +496,8 @@
     "total_msrp": "54880.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color, 1500W inverter [120v_cargo], Entertainment Package",
-    "created_at": "2023-08-05 11:26:25"
+    "packages": "1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Special Color, Entertainment Package, 50 State Emissions",
+    "created_at": "2023-08-06 11:26:48"
   },
   {
     "dealer": "46042",
@@ -596,8 +521,8 @@
     "total_msrp": "47470.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, XSE Plus Package, All-Weather Floor Liner Package[installed_msrp], Cargo Tray[installed_msrp], Owner's Portfolio, 1500W inverter [120v_cargo]",
-    "created_at": "2023-08-05 11:26:27"
+    "packages": "XSE Plus Package, Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, Cargo Tray[installed_msrp]",
+    "created_at": "2023-08-06 11:26:51"
   },
   {
     "dealer": "46042",
@@ -621,33 +546,8 @@
     "total_msrp": "49720.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "XSE Plus Package, Spare tire, 1500W inverter [120v_cargo], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Cargo Tray[installed_msrp], Owner's Portfolio, Entertainment Package",
-    "created_at": "2023-08-05 11:26:27"
-  },
-  {
-    "dealer": "46042",
-    "dealer_name": "Toyota of Puyallup",
-    "dealer_url": "https://www.toyotaofpuyallup.com",
-    "dealer_state": "WA",
-    "dealerPhone": "(877) 403-7776",
-    "dealerAddress": "3405 N. Auburn Way, Auburn WA 98002",
-    "vin": "5TDESKFC3PS097201",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "platinum",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Predawn Gray Mica",
-    "interior": "Nobel Brown Leather",
-    "base_msrp": "53105",
-    "total_msrp": "56545.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Entertainment Package, 1500W inverter [120v_cargo], 50 State Emissions, Cargo Tray[installed_msrp], Platinum Package, Owner's Portfolio",
-    "created_at": "2023-08-05 11:26:27"
+    "packages": "Owner's Portfolio, XSE Plus Package, Entertainment Package, 50 State Emissions, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Cargo Tray[installed_msrp], Spare tire",
+    "created_at": "2023-08-06 11:26:51"
   },
   {
     "dealer": "46088",
@@ -671,8 +571,8 @@
     "total_msrp": "50650.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, Spare tire, Cargo Tray[installed_msrp], WOODLAND EDITION, Rear Seat Entertainment System-, Owner's Portfolio",
-    "created_at": "2023-08-05 11:26:28"
+    "packages": "Rear Seat Entertainment System-, Cargo Tray[installed_msrp], Spare tire, WOODLAND EDITION, Owner's Portfolio, 50 State Emissions",
+    "created_at": "2023-08-06 11:26:52"
   },
   {
     "dealer": "46088",
@@ -696,8 +596,8 @@
     "total_msrp": "55075.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Alloy Wheel Locks[installed_msrp], Entertainment Package, 1500W inverter [120v_cargo], Special Color, All-Weather Floor Liner Package[installed_msrp], Cargo Tray[installed_msrp], 50 State Emissions",
-    "created_at": "2023-08-05 11:26:28"
+    "packages": "Alloy Wheel Locks[installed_msrp], Special Color, All-Weather Floor Liner Package[installed_msrp], Cargo Tray[installed_msrp], 50 State Emissions, 1500W inverter [120v_cargo], Entertainment Package",
+    "created_at": "2023-08-06 11:26:52"
   },
   {
     "dealer": "46089",
@@ -721,8 +621,8 @@
     "total_msrp": "49175.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, Owner's Portfolio, 1500W inverter [120v_cargo], Spare tire, Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Tow Hitch Receiver Package[installed_msrp], XSE Plus Package",
-    "created_at": "2023-08-05 11:26:28"
+    "packages": "Owner's Portfolio, XSE Plus Package, Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, 1500W inverter [120v_cargo], Spare tire, Tow Hitch Receiver Package[installed_msrp]",
+    "created_at": "2023-08-06 11:26:53"
   },
   {
     "dealer": "46078",
@@ -746,33 +646,8 @@
     "total_msrp": "48175.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, XSE Plus Package, Spare tire, Owner's Portfolio",
-    "created_at": "2023-08-05 11:26:29"
-  },
-  {
-    "dealer": "46081",
-    "dealer_name": "Five Star Toyota",
-    "dealer_url": "https://www.fivestartoyota.com",
-    "dealer_state": "WA",
-    "dealerPhone": "(360) 227-0730",
-    "dealerAddress": "1950 NW Louisiana Avenue, Chehalis WA 98532",
-    "vin": "5TDJSKFC1PS095204",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "XLE",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Windchill Pearl [extra_cost_color]",
-    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "44195",
-    "total_msrp": "50095.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "50 State Emissions, 1500W inverter [120v_cargo], Tri-Fold Cargo Liner[installed_msrp], XLE Plus Package, All-Weather Floor Liner Package[installed_msrp], Special Color, Owner's Portfolio, Entertainment Package",
-    "created_at": "2023-08-05 11:26:30"
+    "packages": "50 State Emissions, Spare tire, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], XSE Plus Package, Owner's Portfolio",
+    "created_at": "2023-08-06 11:26:54"
   },
   {
     "dealer": "05069",
@@ -796,8 +671,8 @@
     "total_msrp": "51308.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, Spare tire, , , Door Sill Protectors[installed_msrp], Mudguards[installed_msrp], Rear Seat Entertainment System-, WOODLAND EDITION",
-    "created_at": "2023-08-05 11:26:32"
+    "packages": ", 50 State Emissions, Spare tire, WOODLAND EDITION, Rear Seat Entertainment System-, Door Sill Protectors[installed_msrp], Mudguards[installed_msrp], ",
+    "created_at": "2023-08-06 11:26:57"
   },
   {
     "dealer": "25064",
@@ -821,8 +696,8 @@
     "total_msrp": "56225.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Platinum Package, Tow Hitch Receiver Package[installed_msrp], Special Color, Tri-Fold Cargo Liner[installed_msrp], 50 State Emissions",
-    "created_at": "2023-08-05 11:26:35"
+    "packages": "50 State Emissions, Tow Hitch Receiver Package[installed_msrp], Platinum Package, Special Color, Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Tri-Fold Cargo Liner[installed_msrp]",
+    "created_at": "2023-08-06 11:27:01"
   },
   {
     "dealer": "25064",
@@ -846,8 +721,8 @@
     "total_msrp": "57451.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Entertainment Package, Door Sill Protectors[installed_msrp], Owner's Portfolio, Mudguards[installed_msrp], Cargo Net with Pouch[installed_msrp], Cargo Tray[installed_msrp], Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo], Integrated Dash Cam[installed_msrp], Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Platinum Package",
-    "created_at": "2023-08-05 11:26:35"
+    "packages": "Cargo Net with Pouch[installed_msrp], Integrated Dash Cam[installed_msrp], Entertainment Package, Door Sill Protectors[installed_msrp], 50 State Emissions, Body Side Molding[installed_msrp], Owner's Portfolio, Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Rear Bumper Applique[installed_msrp], Cargo Tray[installed_msrp], Platinum Package",
+    "created_at": "2023-08-06 11:27:01"
   },
   {
     "dealer": "25066",
@@ -871,8 +746,8 @@
     "total_msrp": "48324.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Spare tire, Owner's Portfolio, Mudguards[installed_msrp], 50 State Emissions, XSE Plus Package, 1500W inverter [120v_cargo]",
-    "created_at": "2023-08-05 11:26:36"
+    "packages": "Owner's Portfolio, Spare tire, Mudguards[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], XSE Plus Package",
+    "created_at": "2023-08-06 11:27:01"
   },
   {
     "dealer": "30041",
@@ -896,8 +771,8 @@
     "total_msrp": "47187.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "50 State Emissions, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Mudguards[installed_msrp], Roof rails [roof_rack], Spare tire, Door Sill Protectors[installed_msrp], Rear Bumper Applique[installed_msrp], Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2023-08-05 11:26:36"
+    "packages": "Door Sill Protectors[installed_msrp], 50 State Emissions, Spare tire, Alloy Wheel Locks[installed_msrp], Body Side Molding[installed_msrp], Rear Bumper Applique[installed_msrp], Roof rails [roof_rack], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp]",
+    "created_at": "2023-08-06 11:27:02"
   },
   {
     "dealer": "42344",
@@ -921,8 +796,8 @@
     "total_msrp": "40315.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Premium Carpet Mat Set[gst_global_lio_disclaimer], Roof rails [roof_rack], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Illuminated Door Sills[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:26:38"
+    "packages": "Illuminated Door Sills[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Cross Bars for Roof Rail[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Roof rails [roof_rack]",
+    "created_at": "2023-08-06 11:27:04"
   },
   {
     "dealer": "42344",
@@ -946,8 +821,8 @@
     "total_msrp": "52314.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], WOODLAND EDITION, , Mud Guards[gst_global_lio_disclaimer], 50 State Emissions, Illuminated Door Sills[gst_global_lio_disclaimer], Rear Seat Entertainment System-, Cargo Net[gst_global_lio_disclaimer], Cargo Organizer",
-    "created_at": "2023-08-05 11:26:38"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Illuminated Door Sills[gst_global_lio_disclaimer], , Vehicle Protection Premium Package[gst_global_lio_disclaimer], Rear Seat Entertainment System-, WOODLAND EDITION, Cargo Net[gst_global_lio_disclaimer], Cargo Organizer, 50 State Emissions",
+    "created_at": "2023-08-06 11:27:04"
   },
   {
     "dealer": "42407",
@@ -971,8 +846,8 @@
     "total_msrp": "39975.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Cross Bars for Roof Rail[gst_global_lio_disclaimer], Body Side Molding[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Illuminated Door Sills[gst_global_lio_disclaimer], 50 State Emissions, Mud Guards[gst_global_lio_disclaimer], Roof rails [roof_rack], Premium Carpet Mat Set[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2023-08-05 11:26:38"
+    "packages": "Illuminated Door Sills[gst_global_lio_disclaimer], 50 State Emissions, Roof rails [roof_rack], Mud Guards[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Body Side Molding[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
+    "created_at": "2023-08-06 11:27:04"
   },
   {
     "dealer": "42320",
@@ -996,8 +871,8 @@
     "total_msrp": "54340.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Special Color, Platinum Package, Spare tire",
-    "created_at": "2023-08-05 11:26:39"
+    "packages": "Spare tire, Platinum Package, Special Color, 50 State Emissions",
+    "created_at": "2023-08-06 11:27:05"
   },
   {
     "dealer": "42302",
@@ -1021,8 +896,8 @@
     "total_msrp": "57147.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Premium Carpet Mat Set[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Entertainment Package, 1500W inverter [120v_cargo], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Platinum Package, Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Spare tire",
-    "created_at": "2023-08-05 11:26:41"
+    "packages": "Platinum Package, 1500W inverter [120v_cargo], 50 State Emissions, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Premium Carpet Mat Set[gst_global_lio_disclaimer], Spare tire, Connectivity Kit[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Entertainment Package",
+    "created_at": "2023-08-06 11:27:07"
   },
   {
     "dealer": "42402",
@@ -1046,8 +921,8 @@
     "total_msrp": "52626.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Cargo Net[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Special Color, Cross Bars for Roof Rail[gst_global_lio_disclaimer], Spare tire, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:26:42"
+    "packages": "50 State Emissions, Cross Bars for Roof Rail[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Special Color, Cargo Net[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Spare tire, Premium Carpet Mat Set[gst_global_lio_disclaimer]",
+    "created_at": "2023-08-06 11:27:08"
   },
   {
     "dealer": "42402",
@@ -1071,8 +946,8 @@
     "total_msrp": "53433.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Cross Bars for Roof Rail[gst_global_lio_disclaimer], Special Color, Premium Carpet Mat Set[gst_global_lio_disclaimer], Spare tire, 50 State Emissions, Cargo Organizer[gst_global_lio_disclaimer], Illuminated Door Sills[gst_global_lio_disclaimer], Body Side Molding[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer]",
-    "created_at": "2023-08-05 11:26:42"
+    "packages": "Cross Bars for Roof Rail[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Illuminated Door Sills[gst_global_lio_disclaimer], Spare tire, Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Special Color, Cargo Organizer[gst_global_lio_disclaimer], Body Side Molding[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
+    "created_at": "2023-08-06 11:27:08"
   },
   {
     "dealer": "42299",
@@ -1097,7 +972,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, Roof rails [roof_rack]",
-    "created_at": "2023-08-05 11:26:44"
+    "created_at": "2023-08-06 11:27:11"
   },
   {
     "dealer": "42138",
@@ -1121,8 +996,8 @@
     "total_msrp": "39806.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Roof rails [roof_rack], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Cargo Net[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer]",
-    "created_at": "2023-08-05 11:26:45"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, Roof rails [roof_rack], Cargo Net[gst_global_lio_disclaimer]",
+    "created_at": "2023-08-06 11:27:12"
   },
   {
     "dealer": "42321",
@@ -1146,8 +1021,8 @@
     "total_msrp": "38341.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], 50 State Emissions, Mud Guards[gst_global_lio_disclaimer], Roof rails [roof_rack], Premium Carpet Mat Set[gst_global_lio_disclaimer], Body Side Molding[gst_global_lio_disclaimer]",
-    "created_at": "2023-08-05 11:26:46"
+    "packages": "Cross Bars for Roof Rail[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Roof rails [roof_rack], Mud Guards[gst_global_lio_disclaimer], Body Side Molding[gst_global_lio_disclaimer]",
+    "created_at": "2023-08-06 11:27:13"
   },
   {
     "dealer": "42119",
@@ -1171,8 +1046,8 @@
     "total_msrp": "46165.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "Spare tire, 50 State Emissions, Roof rails [roof_rack]",
-    "created_at": "2023-08-05 11:26:46"
+    "packages": "50 State Emissions, Roof rails [roof_rack], Spare tire",
+    "created_at": "2023-08-06 11:27:13"
   },
   {
     "dealer": "35074",
@@ -1196,8 +1071,8 @@
     "total_msrp": "48200.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Special Color, Spare tire, XSE Plus Package",
-    "created_at": "2023-08-05 11:26:51"
+    "packages": "XSE Plus Package, Special Color, Spare tire, 50 State Emissions",
+    "created_at": "2023-08-06 11:27:20"
   },
   {
     "dealer": "42264",
@@ -1218,11 +1093,11 @@
     "color": "Blueprint",
     "interior": "Chataeu Embossed Softex\u00ae\u00a0[softex]",
     "base_msrp": "42195",
-    "total_msrp": "43840.0",
+    "total_msrp": "45316.0",
     "availability_date": null,
-    "total_packages": 2,
-    "packages": "Roof rails [roof_rack], 50 State Emissions",
-    "created_at": "2023-08-05 11:26:52"
+    "total_packages": 8,
+    "packages": "50 State Emissions, Cargo Net[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Roof rails [roof_rack], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
+    "created_at": "2023-08-06 11:27:21"
   },
   {
     "dealer": "42264",
@@ -1243,11 +1118,11 @@
     "color": "Midnight Black Metallic",
     "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
     "base_msrp": "42195",
-    "total_msrp": "43840.0",
+    "total_msrp": "45316.0",
     "availability_date": null,
-    "total_packages": 2,
-    "packages": "50 State Emissions, Roof rails [roof_rack]",
-    "created_at": "2023-08-05 11:26:52"
+    "total_packages": 8,
+    "packages": "Roof rails [roof_rack], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Rear Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions, Cargo Net[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
+    "created_at": "2023-08-06 11:27:21"
   },
   {
     "dealer": "24074",
@@ -1271,8 +1146,8 @@
     "total_msrp": "54081.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Integrated Dash Cam[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Special Color, Owner's Portfolio, Mudguards[installed_msrp], Rear Bumper Applique[installed_msrp]",
-    "created_at": "2023-08-05 11:26:53"
+    "packages": "Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, 50 State Emissions, Special Color, Integrated Dash Cam[installed_msrp], Rear Bumper Applique[installed_msrp], Mudguards[installed_msrp]",
+    "created_at": "2023-08-06 11:27:22"
   },
   {
     "dealer": "24061",
@@ -1296,33 +1171,8 @@
     "total_msrp": "42780.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "LE Plus Package, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:26:54"
-  },
-  {
-    "dealer": "24061",
-    "dealer_name": "Molle Toyota, Inc.",
-    "dealer_url": "https://www.molletoyota.com",
-    "dealer_state": "MO",
-    "dealerPhone": "(913) 780-9919",
-    "dealerAddress": "685 N. Rawhide, Olathe KS 66061",
-    "vin": "5TDESKFC5PS096499",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "platinum",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Celestial Silver Metallic",
-    "interior": "Nobel Brown Leather",
-    "base_msrp": "53105",
-    "total_msrp": "56684.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package, Platinum Package, 50 State Emissions, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Rear Bumper Applique[installed_msrp]",
-    "created_at": "2023-08-05 11:26:54"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, LE Plus Package",
+    "created_at": "2023-08-06 11:27:23"
   },
   {
     "dealer": "24061",
@@ -1346,33 +1196,8 @@
     "total_msrp": "56743.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Spare tire, Protection Package[installed_msrp], Platinum Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], 50 State Emissions, 1500W inverter [120v_cargo], Entertainment Package, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:26:54"
-  },
-  {
-    "dealer": "24061",
-    "dealer_name": "Molle Toyota, Inc.",
-    "dealer_url": "https://www.molletoyota.com",
-    "dealer_state": "MO",
-    "dealerPhone": "(913) 780-9919",
-    "dealerAddress": "685 N. Rawhide, Olathe KS 66061",
-    "vin": "5TDESKFC6PS097208",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "platinum",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Windchill Pearl [extra_cost_color]",
-    "interior": "Nobel Brown Leather",
-    "base_msrp": "53105",
-    "total_msrp": "57040.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "Platinum Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Special Color, 1500W inverter [120v_cargo], Entertainment Package",
-    "created_at": "2023-08-05 11:26:54"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Entertainment Package, Platinum Package, Spare tire, 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Protection Package[installed_msrp], 50 State Emissions",
+    "created_at": "2023-08-06 11:27:23"
   },
   {
     "dealer": "15052",
@@ -1396,8 +1221,8 @@
     "total_msrp": "54530.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Spare tire, 50 State Emissions, Entertainment Package, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
-    "created_at": "2023-08-05 11:26:56"
+    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package, 50 State Emissions, Spare tire",
+    "created_at": "2023-08-06 11:27:25"
   },
   {
     "dealer": "26021",
@@ -1421,33 +1246,8 @@
     "total_msrp": "47578.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Owner's Portfolio, Mudguards[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Tri-Fold Cargo Liner[installed_msrp], Rear Bumper Applique[installed_msrp], Emergency Assistance Kit[installed_msrp]",
-    "created_at": "2023-08-05 11:26:59"
-  },
-  {
-    "dealer": "26021",
-    "dealer_name": "Baxter Toyota of La Vista",
-    "dealer_url": "https://www.toyotaoflavista.com",
-    "dealer_state": "NE",
-    "dealerPhone": "(402) 496-4444",
-    "dealerAddress": "18201 Cuming Street, Omaha NE 68022",
-    "vin": "5TDDSKFC0PS094736",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "xse",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Midnight Black Metallic",
-    "interior": "Gray Flannel + Black Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "45205",
-    "total_msrp": "51414.0",
-    "availability_date": null,
-    "total_packages": 13,
-    "packages": "Owner's Portfolio, 1500W inverter [120v_cargo], Emergency Assistance Kit[installed_msrp], Spare tire, Entertainment Package, Mudguards[installed_msrp], Illuminated Door Sills[installed_msrp], Tow Hitch Receiver Package[installed_msrp], XSE Plus Package, Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], 50 State Emissions",
-    "created_at": "2023-08-05 11:26:59"
+    "packages": "Tri-Fold Cargo Liner[installed_msrp], Mudguards[installed_msrp], Rear Bumper Applique[installed_msrp], 50 State Emissions, Owner's Portfolio, Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp]",
+    "created_at": "2023-08-06 11:27:28"
   },
   {
     "dealer": "40009",
@@ -1471,8 +1271,8 @@
     "total_msrp": "56899.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Spare tire, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Platinum Package, 50 State Emissions, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Entertainment Package",
-    "created_at": "2023-08-05 11:27:00"
+    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], 1500W inverter [120v_cargo], Platinum Package, All-Weather Floor Liner Package[installed_msrp], Entertainment Package, 50 State Emissions, Spare tire",
+    "created_at": "2023-08-06 11:27:29"
   },
   {
     "dealer": "22045",
@@ -1496,8 +1296,8 @@
     "total_msrp": "58368.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "Quick Charge Cable Package[installed_msrp], Platinum Package, Door Sill Protectors[installed_msrp], Mudguards[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Rear Bumper Applique[installed_msrp], Entertainment Package, Tow Hitch Receiver Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, Special Color, Owner's Portfolio",
-    "created_at": "2023-08-05 11:27:01"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Platinum Package, Entertainment Package, Quick Charge Cable Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Door Sill Protectors[installed_msrp], Owner's Portfolio, Tow Hitch Receiver Package[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 50 State Emissions, Mudguards[installed_msrp], Special Color, Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo]",
+    "created_at": "2023-08-06 11:27:30"
   },
   {
     "dealer": "35055",
@@ -1521,8 +1321,8 @@
     "total_msrp": "40076.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Illuminated Door Sills[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Roof rails [roof_rack], Mud Guards[gst_global_lio_disclaimer]",
-    "created_at": "2023-08-05 11:27:02"
+    "packages": "50 State Emissions, Illuminated Door Sills[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Roof rails [roof_rack], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer]",
+    "created_at": "2023-08-06 11:27:31"
   },
   {
     "dealer": "03074",
@@ -1546,33 +1346,8 @@
     "total_msrp": "53457.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Cross Bars for Roof Rail[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Entertainment Package, Special Color, 1500W inverter [120v_cargo], Spare tire, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2023-08-05 11:27:05"
-  },
-  {
-    "dealer": "41043",
-    "dealer_name": "Principle Toyota",
-    "dealer_url": "https://www.principletoyota.com",
-    "dealer_state": "TN",
-    "dealerPhone": "(901) 444-3119",
-    "dealerAddress": "4601 Hutton Way, Memphis TN 38116",
-    "vin": "5TDJRKEC7PS172767",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "XLE",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "Front-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Predawn Gray Mica",
-    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "42195",
-    "total_msrp": "49157.0",
-    "availability_date": null,
-    "total_packages": 15,
-    "packages": "1500W inverter [120v_cargo], 50 State Emissions, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Spare tire, Quick Charge Cable Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Body Side Molding[installed_msrp], XLE Plus Package, Emergency Assistance Kit[installed_msrp], Roof Rack Cross Bars[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Owner's Portfolio, Integrated Dash Cam[installed_msrp], Entertainment Package",
-    "created_at": "2023-08-05 11:27:07"
+    "packages": "Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Special Color, Mud Guards[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Entertainment Package, Spare tire, Cross Bars for Roof Rail[gst_global_lio_disclaimer], 1500W inverter [120v_cargo]",
+    "created_at": "2023-08-06 11:27:34"
   },
   {
     "dealer": "14048",
@@ -1596,8 +1371,8 @@
     "total_msrp": "41105.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Owner's Portfolio, Emergency Assistance Kit[installed_msrp], 50 State Emissions, LE Plus Package, Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:27:08"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Emergency Assistance Kit[installed_msrp], LE Plus Package, Owner's Portfolio, Body Side Molding[installed_msrp], 50 State Emissions",
+    "created_at": "2023-08-06 11:27:37"
   },
   {
     "dealer": "48060",
@@ -1621,8 +1396,8 @@
     "total_msrp": "47139.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Mudguards[installed_msrp], Roof rails [roof_rack], 50 State Emissions, Door Sill Protectors[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:27:10"
+    "packages": "Door Sill Protectors[installed_msrp], Mudguards[installed_msrp], Roof rails [roof_rack], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2023-08-06 11:27:39"
   },
   {
     "dealer": "22047",
@@ -1646,8 +1421,8 @@
     "total_msrp": "48879.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Quick Charge Cable Package[installed_msrp], Cargo Tray[installed_msrp], Alloy Wheel Locks[installed_msrp], Door Sill Protectors[installed_msrp], Spare tire, All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], Mudguards[installed_msrp], XSE Plus Package, 1500W inverter [120v_cargo], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:10"
+    "packages": "Body Side Molding[installed_msrp], Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Cargo Tray[installed_msrp], Spare tire, XSE Plus Package, Door Sill Protectors[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions, 1500W inverter [120v_cargo], Mudguards[installed_msrp]",
+    "created_at": "2023-08-06 11:27:39"
   },
   {
     "dealer": "12136",
@@ -1671,8 +1446,33 @@
     "total_msrp": "57364.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Door Sill Protectors[installed_msrp], Owner's Portfolio, Mudguards[installed_msrp], Quick Charge Cable Package[installed_msrp], Special Color, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Entertainment Package, 50 State Emissions, Platinum Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
-    "created_at": "2023-08-05 11:27:11"
+    "packages": "Platinum Package, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], Door Sill Protectors[installed_msrp], Alloy Wheel Locks[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Special Color, Owner's Portfolio, Entertainment Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
+    "created_at": "2023-08-06 11:27:41"
+  },
+  {
+    "dealer": "17058",
+    "dealer_name": "Toyota of New Orleans",
+    "dealer_url": "https://www.toyotaofneworleans.com",
+    "dealer_state": "LA",
+    "dealerPhone": "(504) 341-3300",
+    "dealerAddress": "3800 Lapalco Blvd., Harvey LA 70058",
+    "vin": "5TDDSKFC6PS098015",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "xse",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "All-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Midnight Black Metallic",
+    "interior": "Moonstone + Grey Embossed Softex\u00ae\u00a0[softex]",
+    "base_msrp": "45205",
+    "total_msrp": "48075.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "1500W inverter [120v_cargo], XSE Plus Package, Spare tire, 50 State Emissions",
+    "created_at": "2023-08-06 11:27:41"
   },
   {
     "dealer": "22048",
@@ -1696,33 +1496,33 @@
     "total_msrp": "50308.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Body Side Molding[installed_msrp], 1500W inverter [120v_cargo], Quick Charge Cable Package[installed_msrp], Spare tire, XSE Plus Package, Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], 50 State Emissions, Entertainment Package, Door Sill Protectors[installed_msrp], Emergency Assistance Kit[installed_msrp], Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2023-08-05 11:27:15"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Door Sill Protectors[installed_msrp], Spare tire, Emergency Assistance Kit[installed_msrp], XSE Plus Package, Alloy Wheel Locks[installed_msrp], 50 State Emissions, Entertainment Package, 1500W inverter [120v_cargo], Mudguards[installed_msrp], Quick Charge Cable Package[installed_msrp], Body Side Molding[installed_msrp], Rear Bumper Applique[installed_msrp]",
+    "created_at": "2023-08-06 11:27:45"
   },
   {
-    "dealer": "22046",
-    "dealer_name": "Carlson Toyota",
-    "dealer_url": "https://www.carlsontoyota.com",
+    "dealer": "22048",
+    "dealer_name": "Walser Bloomington Toyota",
+    "dealer_url": "https://www.walsertoyota.com",
     "dealer_state": "MN",
-    "dealerPhone": "(612) 428-0596",
-    "dealerAddress": "8805 Wayzata Blvd, Golden Valley MN 55426",
-    "vin": "5TDXSKFC9PS097695",
+    "dealerPhone": "(651) 288-2500",
+    "dealerAddress": "2873 Maplewood Dr., Maplewood MN 55109",
+    "vin": "5TDESKFC1PS092269",
     "year": "2023",
     "vehicle": "sienna",
-    "model": "xse",
+    "model": "platinum",
     "enginge": "2.5-Liter Hybrid",
     "transmission": "ECVT",
     "drivetrain": "All-Wheel Drive",
     "cab": null,
     "bed": null,
     "color": "Blueprint",
-    "interior": "Gray Flannel + Black Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "45205",
-    "total_msrp": "47593.0",
+    "interior": "Nobel Brown Leather",
+    "base_msrp": "53105",
+    "total_msrp": "57893.0",
     "availability_date": null,
-    "total_packages": 9,
-    "packages": "Alloy Wheel Locks[installed_msrp], Body Side Molding[installed_msrp], Door Sill Protectors[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], Quick Charge Cable Package[installed_msrp], Roof rails [roof_rack]",
-    "created_at": "2023-08-05 11:27:16"
+    "total_packages": 10,
+    "packages": "50 State Emissions, 1500W inverter [120v_cargo], Emergency Assistance Kit[installed_msrp], Mudguards[installed_msrp], Rear Bumper Applique[installed_msrp], Platinum Package, Entertainment Package, Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Tow Hitch Receiver Package[installed_msrp]",
+    "created_at": "2023-08-06 11:27:45"
   },
   {
     "dealer": "24077",
@@ -1746,8 +1546,8 @@
     "total_msrp": "43790.0",
     "availability_date": null,
     "total_packages": 2,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:19"
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2023-08-06 11:27:50"
   },
   {
     "dealer": "24077",
@@ -1771,8 +1571,8 @@
     "total_msrp": "56898.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Entertainment Package, 50 State Emissions, Emergency Assistance Kit[installed_msrp], Body Side Molding[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], Spare tire, Platinum Package, Mudguards[installed_msrp], 1500W inverter [120v_cargo], Special Color",
-    "created_at": "2023-08-05 11:27:19"
+    "packages": "Platinum Package, Body Side Molding[installed_msrp], Special Color, All-Weather Floor Liner Package[installed_msrp], Entertainment Package, Spare tire, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 1500W inverter [120v_cargo], Mudguards[installed_msrp], 50 State Emissions, Emergency Assistance Kit[installed_msrp], Rear Bumper Applique[installed_msrp]",
+    "created_at": "2023-08-06 11:27:50"
   },
   {
     "dealer": "23057",
@@ -1796,8 +1596,33 @@
     "total_msrp": "57475.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Entertainment Package, Platinum Package, 1500W inverter [120v_cargo], Premium Carpet Mat Set[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Cross Bars for Roof Rail[gst_global_lio_disclaimer], Spare tire, 50 State Emissions, Rear Cargo Organizer[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
-    "created_at": "2023-08-05 11:27:25"
+    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Spare tire, Mud Guards[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], 50 State Emissions, 1500W inverter [120v_cargo], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Platinum Package, Rear Cargo Organizer[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Entertainment Package",
+    "created_at": "2023-08-06 11:27:57"
+  },
+  {
+    "dealer": "23076",
+    "dealer_name": "Cannon Toyota",
+    "dealer_url": "https://www.cannontoyotavicksburg.com",
+    "dealer_state": "MS",
+    "dealerPhone": "(601) 948-0576",
+    "dealerAddress": "104 Gray Daniels Blvd, Brandon MS 39042",
+    "vin": "5TDZRKEC7PS170634",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "limited",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "Front-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ruby Flare Pearl [extra_cost_color]",
+    "interior": "Chataeu Leather",
+    "base_msrp": "49145",
+    "total_msrp": "51140.0",
+    "availability_date": null,
+    "total_packages": 3,
+    "packages": "50 State Emissions, Special Color, Spare tire",
+    "created_at": "2023-08-06 11:27:58"
   },
   {
     "dealer": "23062",
@@ -1821,8 +1646,8 @@
     "total_msrp": "45874.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Cargo Organizer[gst_global_lio_disclaimer], Illuminated Door Sills[gst_global_lio_disclaimer], Roof rails [roof_rack], Connectivity Kit[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer]",
-    "created_at": "2023-08-05 11:27:27"
+    "packages": "Roof rails [roof_rack], Connectivity Kit[gst_global_lio_disclaimer], Cross Bars for Roof Rail[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Cargo Organizer[gst_global_lio_disclaimer], 50 State Emissions, Illuminated Door Sills[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer]",
+    "created_at": "2023-08-06 11:27:58"
   },
   {
     "dealer": "09209",
@@ -1847,7 +1672,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "XSE Plus Package, Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Illuminated Door Sills [set_global_lio_disclaimer], 1500W inverter [120v_cargo], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:29"
+    "created_at": "2023-08-06 11:28:00"
   },
   {
     "dealer": "09206",
@@ -1872,7 +1697,7 @@
     "availability_date": "08/08/2023",
     "total_packages": 7,
     "packages": "XSE Plus Package, TOYOGUARD Platinum [set_global_lio_disclaimer], 1500W inverter [120v_cargo], Clear Paint Protection - Door Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:30"
+    "created_at": "2023-08-06 11:28:01"
   },
   {
     "dealer": "09206",
@@ -1897,7 +1722,7 @@
     "availability_date": "Now",
     "total_packages": 5,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Door Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:30"
+    "created_at": "2023-08-06 11:28:01"
   },
   {
     "dealer": "09206",
@@ -1922,7 +1747,7 @@
     "availability_date": "Now",
     "total_packages": 7,
     "packages": "Entertainment Package, TOYOGUARD Platinum [set_global_lio_disclaimer], 1500W inverter [120v_cargo], Clear Paint Protection - Door Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:30"
+    "created_at": "2023-08-06 11:28:01"
   },
   {
     "dealer": "09227",
@@ -1947,7 +1772,7 @@
     "availability_date": "08/07/2023",
     "total_packages": 7,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], Special Color, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:31"
+    "created_at": "2023-08-06 11:28:02"
   },
   {
     "dealer": "09227",
@@ -1972,7 +1797,7 @@
     "availability_date": "08/08/2023",
     "total_packages": 10,
     "packages": "Entertainment Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Spare tire, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:31"
+    "created_at": "2023-08-06 11:28:02"
   },
   {
     "dealer": "09241",
@@ -1997,7 +1822,7 @@
     "availability_date": "08/07/2023",
     "total_packages": 7,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Roof rails [roof_rack], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:32"
+    "created_at": "2023-08-06 11:28:03"
   },
   {
     "dealer": "09228",
@@ -2019,10 +1844,10 @@
     "interior": "Gray Flannel + Black Embossed Softex\u00ae\u00a0[softex]",
     "base_msrp": "44445",
     "total_msrp": "49745.5",
-    "availability_date": "08/08/2023",
+    "availability_date": "08/09/2023",
     "total_packages": 9,
     "packages": "XSE Plus Package, TOYOGUARD Platinum [set_global_lio_disclaimer], Carpet Floor Mats [set_global_lio_disclaimer], Illuminated Door Sills [set_global_lio_disclaimer], 1500W inverter [120v_cargo], Clear Paint Protection - Door Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:35"
+    "created_at": "2023-08-06 11:28:05"
   },
   {
     "dealer": "39046",
@@ -2047,7 +1872,7 @@
     "availability_date": "08/08/2023",
     "total_packages": 8,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Clear Paint Protection - Full Hood Package [set_global_lio_disclaimer], Roof rails [roof_rack], Spare tire, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], Southeast Toyota Distributor [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:39"
+    "created_at": "2023-08-06 11:28:09"
   },
   {
     "dealer": "16005",
@@ -2071,8 +1896,33 @@
     "total_msrp": "39459.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Roof Rack Cross Bars[installed_msrp], Body Side Molding[installed_msrp], Quick Charge Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp], Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Roof rails [roof_rack], Spare tire",
-    "created_at": "2023-08-05 11:27:42"
+    "packages": "Roof Rack Cross Bars[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp], Mudguards[installed_msrp], Roof rails [roof_rack], Spare tire, All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp]",
+    "created_at": "2023-08-06 11:28:11"
+  },
+  {
+    "dealer": "16006",
+    "dealer_name": "Toyota of Louisville",
+    "dealer_url": "https://www.toyotaoflouisville.com",
+    "dealer_state": "KY",
+    "dealerPhone": "(812) 284-2277",
+    "dealerAddress": "808 E. Lewis & Clark Parkway, Clarksville IN 47129",
+    "vin": "5TDKRKEC5PS173050",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "le",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "Front-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Predawn Gray Mica",
+    "interior": "Gray Woven Fabric",
+    "base_msrp": "36885",
+    "total_msrp": "39234.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Roof rails [roof_rack], Mudguards[installed_msrp], Spare tire, Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2023-08-06 11:28:12"
   },
   {
     "dealer": "16049",
@@ -2096,8 +1946,8 @@
     "total_msrp": "48474.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Mudguards[installed_msrp], Entertainment Package, Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Spare tire, Special Color, 50 State Emissions, 1500W inverter [120v_cargo], XLE Plus Package, Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2023-08-05 11:27:44"
+    "packages": "50 State Emissions, 1500W inverter [120v_cargo], Body Side Molding[installed_msrp], Mudguards[installed_msrp], Spare tire, Entertainment Package, XLE Plus Package, All-Weather Floor Liner Package[installed_msrp], Special Color, Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2023-08-06 11:28:13"
   },
   {
     "dealer": "16049",
@@ -2121,8 +1971,8 @@
     "total_msrp": "50938.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], 18-in. Alloy Wheel, XLE Plus Package, Body Side Molding[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Quick Charge Cable Package[installed_msrp], Spare tire, Mudguards[installed_msrp], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:44"
+    "packages": "Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Spare tire, All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], 1500W inverter [120v_cargo], Mudguards[installed_msrp], XLE Plus Package, Quick Charge Cable Package[installed_msrp], Entertainment Package, 18-in. Alloy Wheel, 50 State Emissions",
+    "created_at": "2023-08-06 11:28:13"
   },
   {
     "dealer": "41030",
@@ -2146,8 +1996,8 @@
     "total_msrp": "39424.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Door Sill Protectors[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp], Body Side Molding[installed_msrp], Roof rails [roof_rack], Spare tire",
-    "created_at": "2023-08-05 11:27:45"
+    "packages": "Roof rails [roof_rack], Roof Rack Cross Bars[installed_msrp], Mudguards[installed_msrp], Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], Door Sill Protectors[installed_msrp], 50 State Emissions, Spare tire",
+    "created_at": "2023-08-06 11:28:13"
   },
   {
     "dealer": "16050",
@@ -2171,8 +2021,8 @@
     "total_msrp": "40705.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Roof rails [roof_rack], Spare tire, 50 State Emissions",
-    "created_at": "2023-08-05 11:27:45"
+    "packages": "Roof rails [roof_rack], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Spare tire",
+    "created_at": "2023-08-06 11:28:13"
   },
   {
     "dealer": "16050",
@@ -2196,58 +2046,33 @@
     "total_msrp": "49015.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "50 State Emissions, XLE Plus Package, Spare tire, 1500W inverter [120v_cargo], Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 18-in. Alloy Wheel",
-    "created_at": "2023-08-05 11:27:45"
+    "packages": "18-in. Alloy Wheel, Body Side Molding[installed_msrp], XLE Plus Package, 1500W inverter [120v_cargo], Spare tire, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2023-08-06 11:28:13"
   },
   {
-    "dealer": "16050",
-    "dealer_name": "Kerry Toyota",
-    "dealer_url": "https://www.kerrytoyota.com",
-    "dealer_state": "KY",
-    "dealerPhone": "(888) 860-5848",
-    "dealerAddress": "5944 W Andrew Johnson Hwy, Morristown TN 37814",
-    "vin": "5TDESKFC9PS098580",
+    "dealer": "47028",
+    "dealer_name": "Advantage Toyota",
+    "dealer_url": "https://www.advantagetoyota.com",
+    "dealer_state": "WV",
+    "dealerPhone": "(606) 744-2727",
+    "dealerAddress": "3503 Winchester Avenue, Ashland KY 41101",
+    "vin": "5TDKRKEC3PS173533",
     "year": "2023",
     "vehicle": "sienna",
-    "model": "platinum",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Midnight Black Metallic",
-    "interior": "Nobel Brown Leather",
-    "base_msrp": "53105",
-    "total_msrp": "57642.0",
-    "availability_date": null,
-    "total_packages": 12,
-    "packages": "Entertainment Package, 50 State Emissions, Roof Rack Cross Bars[installed_msrp], Integrated Dash Cam[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Mudguards[installed_msrp], Platinum Package, Owner's Portfolio",
-    "created_at": "2023-08-05 11:27:45"
-  },
-  {
-    "dealer": "34073",
-    "dealer_name": "Walker Toyota",
-    "dealer_url": "https://www.walkertoyota.com",
-    "dealer_state": "OH",
-    "dealerPhone": "(513) 874-8797",
-    "dealerAddress": "5676 Dixie Highway, Fairfield OH 45014",
-    "vin": "5TDJRKEC0PS172335",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "XLE",
+    "model": "le",
     "enginge": "2.5-Liter Hybrid",
     "transmission": "ECVT",
     "drivetrain": "Front-Wheel Drive",
     "cab": null,
     "bed": null,
-    "color": "Midnight Black Metallic",
-    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "42195",
-    "total_msrp": "48009.0",
+    "color": "Sunset Bronze Mica",
+    "interior": "Gray Woven Fabric",
+    "base_msrp": "36885",
+    "total_msrp": "39189.0",
     "availability_date": null,
-    "total_packages": 9,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], XLE Plus Package, Mudguards[installed_msrp], Roof Rack Cross Bars[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package, 50 State Emissions, Spare tire",
-    "created_at": "2023-08-05 11:27:46"
+    "total_packages": 11,
+    "packages": "50 State Emissions, Emergency Assistance Kit[installed_msrp], Roof rails [roof_rack], All-Weather Floor Liner Package[installed_msrp], Door Sill Protectors[installed_msrp], Owner's Portfolio, Spare tire, Alloy Wheel Locks[installed_msrp], Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp], First Aid Kit w/ PPE[installed_msrp]",
+    "created_at": "2023-08-06 11:28:15"
   },
   {
     "dealer": "47028",
@@ -2271,8 +2096,8 @@
     "total_msrp": "47908.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Quick Charge Cable Package[installed_msrp], 50 State Emissions, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], All-Weather Floor Liner Package[installed_msrp], XSE Plus Package, Mudguards[installed_msrp], 1500W inverter [120v_cargo], Owner's Portfolio",
-    "created_at": "2023-08-05 11:27:47"
+    "packages": "50 State Emissions, Quick Charge Cable Package[installed_msrp], Owner's Portfolio, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Mudguards[installed_msrp], XSE Plus Package, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2023-08-06 11:28:15"
   },
   {
     "dealer": "47028",
@@ -2296,8 +2121,8 @@
     "total_msrp": "47930.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Owner's Portfolio, 50 State Emissions, Special Color, Entertainment Package, XLE Plus Package, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo]",
-    "created_at": "2023-08-05 11:27:47"
+    "packages": "XLE Plus Package, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, 50 State Emissions, Special Color, Entertainment Package",
+    "created_at": "2023-08-06 11:28:15"
   },
   {
     "dealer": "47028",
@@ -2321,8 +2146,8 @@
     "total_msrp": "49663.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Mudguards[installed_msrp], , 50 State Emissions, Owner's Portfolio, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], WOODLAND EDITION, Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2023-08-05 11:27:47"
+    "packages": "Quick Charge Cable Package[installed_msrp], WOODLAND EDITION, Owner's Portfolio, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], 50 State Emissions, , Mudguards[installed_msrp]",
+    "created_at": "2023-08-06 11:28:15"
   },
   {
     "dealer": "47030",
@@ -2346,42 +2171,17 @@
     "total_msrp": "43413.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Quick Charge Cable Package[installed_msrp], 50 State Emissions, Alloy Wheel Locks[installed_msrp], LE Plus Package, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:27:47"
+    "packages": "Mudguards[installed_msrp], 50 State Emissions, Owner's Portfolio, Alloy Wheel Locks[installed_msrp], LE Plus Package, All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2023-08-06 11:28:15"
   },
   {
-    "dealer": "47030",
-    "dealer_name": "Moses Toyota",
-    "dealer_url": "https://www.mosestoyota.com",
-    "dealer_state": "WV",
-    "dealerPhone": "(740) 354-3255",
-    "dealerAddress": "2867 U.S. Route 23, Portsmouth OH 45662",
-    "vin": "5TDESKFC0PS098600",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "platinum",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Ruby Flare Pearl [extra_cost_color]",
-    "interior": "Nobel Brown Leather",
-    "base_msrp": "53105",
-    "total_msrp": "57817.0",
-    "availability_date": null,
-    "total_packages": 12,
-    "packages": "Special Color, All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], Entertainment Package, Integrated Dash Cam[installed_msrp], Rear Bumper Applique[installed_msrp], Cargo Organizer[installed_msrp], Platinum Package, 1500W inverter [120v_cargo], Body Side Molding[installed_msrp], Owner's Portfolio, 50 State Emissions",
-    "created_at": "2023-08-05 11:27:47"
-  },
-  {
-    "dealer": "41050",
-    "dealer_name": "Cumberland Toyota",
-    "dealer_url": "https://www.cumberlandtoyota.com",
-    "dealer_state": "TN",
-    "dealerPhone": "(800) 321-5368",
-    "dealerAddress": "5600 East Division Street, Evansville IN 47715",
-    "vin": "5TDJRKEC0PS172769",
+    "dealer": "16064",
+    "dealer_name": "Coad Toyota Paducah",
+    "dealer_url": "https://www.coadtoyotapaducah.com",
+    "dealer_state": "KY",
+    "dealerPhone": "(606) 432-1451",
+    "dealerAddress": "30 Walters Lane, Pikeville KY 41501",
+    "vin": "5TDJRKEC0PS173095",
     "year": "2023",
     "vehicle": "sienna",
     "model": "XLE",
@@ -2390,39 +2190,14 @@
     "drivetrain": "Front-Wheel Drive",
     "cab": null,
     "bed": null,
-    "color": "Windchill Pearl [extra_cost_color]",
+    "color": "Celestial Silver Metallic",
     "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
     "base_msrp": "42195",
-    "total_msrp": "47799.0",
+    "total_msrp": "47789.0",
     "availability_date": null,
-    "total_packages": 10,
-    "packages": "50 State Emissions, Spare tire, XLE Plus Package, All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Special Color, Body Side Molding[installed_msrp], 18-in. Alloy Wheel, 1500W inverter [120v_cargo], Roof Rack Cross Bars[installed_msrp]",
-    "created_at": "2023-08-05 11:27:49"
-  },
-  {
-    "dealer": "41079",
-    "dealer_name": "Toyota of Murfreesboro",
-    "dealer_url": "https://www.toyotaofmurfreesboro.com",
-    "dealer_state": "TN",
-    "dealerPhone": "(866) 762-3787",
-    "dealerAddress": "1027 Nashville Highway, Columbia TN 38401",
-    "vin": "5TDYRKEC9PS172316",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "XLE",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "Front-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Midnight Black Metallic",
-    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "42195",
-    "total_msrp": "44299.0",
-    "availability_date": null,
-    "total_packages": 5,
-    "packages": "Roof rails [roof_rack], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Roof Rack Cross Bars[installed_msrp], 50 State Emissions",
-    "created_at": "2023-08-05 11:27:51"
+    "total_packages": 7,
+    "packages": "Entertainment Package, XLE Plus Package, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Mudguards[installed_msrp], Spare tire, 50 State Emissions",
+    "created_at": "2023-08-06 11:28:16"
   },
   {
     "dealer": "41001",
@@ -2446,8 +2221,8 @@
     "total_msrp": "48863.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Body Side Molding[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Coin Holder/Ashtray Cup[installed_msrp], 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], Owner's Portfolio, Spare tire, XLE Plus Package",
-    "created_at": "2023-08-05 11:27:52"
+    "packages": "Coin Holder/Ashtray Cup[installed_msrp], 50 State Emissions, XLE Plus Package, Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], Mudguards[installed_msrp], Body Side Molding[installed_msrp], 1500W inverter [120v_cargo], Spare tire",
+    "created_at": "2023-08-06 11:28:19"
   },
   {
     "dealer": "41086",
@@ -2471,8 +2246,8 @@
     "total_msrp": "49339.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "18-in. Alloy Wheel, Spare tire, 1500W inverter [120v_cargo], XLE Plus Package, All-Weather Floor Liner Package[installed_msrp], Special Color, 50 State Emissions, Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:27:52"
+    "packages": "50 State Emissions, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Spare tire, XLE Plus Package, 18-in. Alloy Wheel, Special Color, Mudguards[installed_msrp]",
+    "created_at": "2023-08-06 11:28:20"
   },
   {
     "dealer": "45040",
@@ -2496,8 +2271,8 @@
     "total_msrp": "41169.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Alloy Wheel Locks[installed_msrp], 50 State Emissions, Roof rails [roof_rack], Spare tire, Body Side Molding[installed_msrp], Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:27:54"
+    "packages": "50 State Emissions, Mudguards[installed_msrp], Body Side Molding[installed_msrp], Roof rails [roof_rack], All-Weather Floor Liner Package[installed_msrp], Spare tire, Alloy Wheel Locks[installed_msrp]",
+    "created_at": "2023-08-06 11:28:22"
   },
   {
     "dealer": "19043",
@@ -2521,8 +2296,8 @@
     "total_msrp": "46304.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Mudguards[installed_msrp], Owner's Portfolio, XLE Plus Package, Alloy Wheel Locks[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo]",
-    "created_at": "2023-08-05 11:27:56"
+    "packages": "Alloy Wheel Locks[installed_msrp], 50 State Emissions, Owner's Portfolio, Mudguards[installed_msrp], 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], XLE Plus Package",
+    "created_at": "2023-08-06 11:28:23"
   },
   {
     "dealer": "19043",
@@ -2546,8 +2321,8 @@
     "total_msrp": "48697.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Mudguards[installed_msrp], 1500W inverter [120v_cargo], Rear Bumper Applique[installed_msrp], Spare tire, XSE Plus Package, Cargo Organizer[installed_msrp], 50 State Emissions, Owner's Portfolio, Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:27:56"
+    "packages": "Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Cargo Organizer[installed_msrp], Spare tire, Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo], Mudguards[installed_msrp], Alloy Wheel Locks[installed_msrp], 50 State Emissions, XSE Plus Package",
+    "created_at": "2023-08-06 11:28:23"
   },
   {
     "dealer": "19043",
@@ -2571,8 +2346,8 @@
     "total_msrp": "49038.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "1500W inverter [120v_cargo], 50 State Emissions, Alloy Wheel Locks[installed_msrp], Owner's Portfolio, XSE Plus Package, Rear Bumper Applique[installed_msrp], Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Entertainment Package",
-    "created_at": "2023-08-05 11:27:56"
+    "packages": "Alloy Wheel Locks[installed_msrp], Entertainment Package, XSE Plus Package, Owner's Portfolio, 50 State Emissions, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], Mudguards[installed_msrp]",
+    "created_at": "2023-08-06 11:28:23"
   },
   {
     "dealer": "19043",
@@ -2596,8 +2371,8 @@
     "total_msrp": "56664.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Mudguards[installed_msrp], Cargo Tote[installed_msrp], Platinum Package, Owner's Portfolio, Entertainment Package, 1500W inverter [120v_cargo], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Door Sill Protectors[installed_msrp]",
-    "created_at": "2023-08-05 11:27:56"
+    "packages": "Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Platinum Package, Mudguards[installed_msrp], 1500W inverter [120v_cargo], Door Sill Protectors[installed_msrp], Cargo Tote[installed_msrp], Entertainment Package, 50 State Emissions",
+    "created_at": "2023-08-06 11:28:23"
   },
   {
     "dealer": "45013",
@@ -2621,8 +2396,8 @@
     "total_msrp": "47002.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Body Side Molding[installed_msrp], Roof rails [roof_rack], Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Cargo Organizer[installed_msrp], 50 State Emissions, Door Sill Protectors[installed_msrp], Rear Bumper Applique[installed_msrp]",
-    "created_at": "2023-08-05 11:27:59"
+    "packages": "Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Roof rails [roof_rack], Alloy Wheel Locks[installed_msrp], Cargo Organizer[installed_msrp], Door Sill Protectors[installed_msrp], Rear Bumper Applique[installed_msrp]",
+    "created_at": "2023-08-06 11:28:26"
   },
   {
     "dealer": "45013",
@@ -2646,33 +2421,8 @@
     "total_msrp": "49724.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "XSE Plus Package, 1500W inverter [120v_cargo], 50 State Emissions, Mudguards[installed_msrp], Drop Ship Indicator, Entertainment Package, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:27:59"
-  },
-  {
-    "dealer": "45082",
-    "dealer_name": "Loyalty Toyota",
-    "dealer_url": "https://www.loyaltytoyotarichmond.com",
-    "dealer_state": "VA",
-    "dealerPhone": "(804) 545-7411",
-    "dealerAddress": "3600 Lonas Parkway, Midlothian VA 23112",
-    "vin": "5TDDSKFC5PS090276",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "xse",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Blueprint",
-    "interior": "Moonstone + Grey Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "45205",
-    "total_msrp": "49724.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "Entertainment Package, Mudguards[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], XSE Plus Package, Drop Ship Indicator, 1500W inverter [120v_cargo]",
-    "created_at": "2023-08-05 11:28:00"
+    "packages": "Drop Ship Indicator, Mudguards[installed_msrp], XSE Plus Package, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, 1500W inverter [120v_cargo], Entertainment Package",
+    "created_at": "2023-08-06 11:28:26"
   },
   {
     "dealer": "45082",
@@ -2696,8 +2446,33 @@
     "total_msrp": "56824.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, 1500W inverter [120v_cargo], Platinum Package, Mudguards[installed_msrp], Entertainment Package, All-Weather Floor Liner Package[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Drop Ship Indicator",
-    "created_at": "2023-08-05 11:28:00"
+    "packages": "Entertainment Package, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Drop Ship Indicator, Mudguards[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Platinum Package, 50 State Emissions",
+    "created_at": "2023-08-06 11:28:27"
+  },
+  {
+    "dealer": "45053",
+    "dealer_name": "Haley Toyota",
+    "dealer_url": "https://www.haleytoyotaofroanoke.com",
+    "dealer_state": "VA",
+    "dealerPhone": "(877) 757-5770",
+    "dealerAddress": "19018 Forest Road, Lynchburg VA 24502",
+    "vin": "5TDJSKFC3PS099299",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "XLE",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "All-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Blueprint",
+    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
+    "base_msrp": "44195",
+    "total_msrp": "50285.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "Entertainment Package, Owner's Portfolio, 18-in. Alloy Wheel, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Door Sill Protectors[installed_msrp], 1500W inverter [120v_cargo], Spare tire, XLE Plus Package",
+    "created_at": "2023-08-06 11:28:29"
   },
   {
     "dealer": "45087",
@@ -2721,8 +2496,8 @@
     "total_msrp": "57289.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Entertainment Package, Body Side Molding[installed_msrp], 50 State Emissions, Rear Bumper Applique[installed_msrp], Platinum Package, Quick Charge Cable Package[installed_msrp], Owner's Portfolio, 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Emergency Assistance Kit[installed_msrp], Roof Rack Cross Bars[installed_msrp]",
-    "created_at": "2023-08-05 11:28:02"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp], Platinum Package, Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo], Owner's Portfolio, Roof Rack Cross Bars[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Body Side Molding[installed_msrp], Entertainment Package, 50 State Emissions",
+    "created_at": "2023-08-06 11:28:30"
   },
   {
     "dealer": "47012",
@@ -2746,8 +2521,8 @@
     "total_msrp": "55008.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Alloy Wheel Locks[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Rear Bumper Applique[installed_msrp], 50 State Emissions, Entertainment Package, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, 1500W inverter [120v_cargo], Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:28:05"
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], Mudguards[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package, Owner's Portfolio, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Quick Charge Cable Package[installed_msrp], Alloy Wheel Locks[installed_msrp]",
+    "created_at": "2023-08-06 11:28:32"
   },
   {
     "dealer": "29083",
@@ -2771,8 +2546,8 @@
     "total_msrp": "55054.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "50 State Emissions, Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Entertainment Package, 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
-    "created_at": "2023-08-05 11:28:12"
+    "packages": "Body Side Molding[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, Mudguards[installed_msrp], Entertainment Package",
+    "created_at": "2023-08-06 11:28:41"
   },
   {
     "dealer": "31156",
@@ -2796,8 +2571,8 @@
     "total_msrp": "55264.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Entertainment Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], Owner's Portfolio, 1500W inverter [120v_cargo], Roof Rack Cross Bars[installed_msrp], Mudguards[installed_msrp], 50 State Emissions",
-    "created_at": "2023-08-05 11:28:13"
+    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 1500W inverter [120v_cargo], 50 State Emissions, Body Side Molding[installed_msrp], Mudguards[installed_msrp], Entertainment Package, All-Weather Floor Liner Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], Owner's Portfolio",
+    "created_at": "2023-08-06 11:28:42"
   },
   {
     "dealer": "31156",
@@ -2821,8 +2596,8 @@
     "total_msrp": "55333.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Roof Rack Cross Bars[installed_msrp], Rear Bumper Applique[installed_msrp], 50 State Emissions, 1500W inverter [120v_cargo], Owner's Portfolio, Entertainment Package, Mudguards[installed_msrp], Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:28:13"
+    "packages": "Owner's Portfolio, Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Entertainment Package, 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 50 State Emissions, Roof Rack Cross Bars[installed_msrp], Body Side Molding[installed_msrp], Rear Bumper Applique[installed_msrp]",
+    "created_at": "2023-08-06 11:28:42"
   },
   {
     "dealer": "31156",
@@ -2846,8 +2621,8 @@
     "total_msrp": "57853.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Alloy Wheel Locks[installed_msrp], 1500W inverter [120v_cargo], Body Side Molding[installed_msrp], Entertainment Package, Platinum Package, Mudguards[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Special Color",
-    "created_at": "2023-08-05 11:28:13"
+    "packages": "Mudguards[installed_msrp], Owner's Portfolio, 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Platinum Package, Body Side Molding[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Entertainment Package, Special Color, 50 State Emissions",
+    "created_at": "2023-08-06 11:28:42"
   },
   {
     "dealer": "29078",
@@ -2871,8 +2646,8 @@
     "total_msrp": "55054.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 50 State Emissions, Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], Entertainment Package, 1500W inverter [120v_cargo]",
-    "created_at": "2023-08-05 11:28:14"
+    "packages": "Mudguards[installed_msrp], Entertainment Package, Body Side Molding[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
+    "created_at": "2023-08-06 11:28:43"
   },
   {
     "dealer": "29081",
@@ -2896,8 +2671,8 @@
     "total_msrp": "55294.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, Special Color, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Mudguards[installed_msrp], Alloy Wheel Locks[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Entertainment Package",
-    "created_at": "2023-08-05 11:28:16"
+    "packages": "Special Color, Alloy Wheel Locks[installed_msrp], Mudguards[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
+    "created_at": "2023-08-06 11:28:44"
   },
   {
     "dealer": "31176",
@@ -2921,33 +2696,8 @@
     "total_msrp": "55054.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Entertainment Package, 1500W inverter [120v_cargo], Body Side Molding[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
-    "created_at": "2023-08-05 11:28:18"
-  },
-  {
-    "dealer": "31176",
-    "dealer_name": "Interstate Toyota",
-    "dealer_url": "https://www.interstatetoyota.net",
-    "dealer_state": "NY",
-    "dealerPhone": "(855) 953-4133",
-    "dealerAddress": "2400 Northern Blvd., Greenvale NY 11548",
-    "vin": "5TDZSKFC4PS098519",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "limited",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Midnight Black Metallic",
-    "interior": "Graphite Leather",
-    "base_msrp": "51145",
-    "total_msrp": "55054.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Body Side Molding[installed_msrp], Mudguards[installed_msrp], Entertainment Package",
-    "created_at": "2023-08-05 11:28:18"
+    "packages": "Entertainment Package, All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Body Side Molding[installed_msrp]",
+    "created_at": "2023-08-06 11:28:47"
   },
   {
     "dealer": "31176",
@@ -2971,8 +2721,8 @@
     "total_msrp": "55479.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Entertainment Package, 1500W inverter [120v_cargo], Body Side Molding[installed_msrp], Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Special Color, 50 State Emissions",
-    "created_at": "2023-08-05 11:28:18"
+    "packages": "50 State Emissions, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Special Color, Mudguards[installed_msrp], Entertainment Package, Body Side Molding[installed_msrp]",
+    "created_at": "2023-08-06 11:28:47"
   },
   {
     "dealer": "31171",
@@ -2996,8 +2746,8 @@
     "total_msrp": "56689.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "50 State Emissions, 1500W inverter [120v_cargo], Platinum Package, Entertainment Package, Spare tire, All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Body Side Molding[installed_msrp]",
-    "created_at": "2023-08-05 11:28:21"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], 1500W inverter [120v_cargo], Platinum Package, 50 State Emissions, Body Side Molding[installed_msrp], Entertainment Package, Spare tire",
+    "created_at": "2023-08-06 11:28:50"
   },
   {
     "dealer": "06032",
@@ -3021,8 +2771,8 @@
     "total_msrp": "50048.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Rear Bumper Applique[installed_msrp], Mudguards[installed_msrp], Entertainment Package, Body Side Molding[installed_msrp], 1500W inverter [120v_cargo], XSE Plus Package, Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2023-08-05 11:28:22"
+    "packages": "Mudguards[installed_msrp], Body Side Molding[installed_msrp], 50 State Emissions, Rear Bumper Applique[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Entertainment Package, XSE Plus Package, Alloy Wheel Locks[installed_msrp], 1500W inverter [120v_cargo]",
+    "created_at": "2023-08-06 11:28:50"
   },
   {
     "dealer": "06050",
@@ -3046,8 +2796,8 @@
     "total_msrp": "48585.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, Special Color, XLE Plus Package, Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2023-08-05 11:28:23"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Quick Charge Cable Package[installed_msrp], Special Color, XLE Plus Package, 1500W inverter [120v_cargo], 50 State Emissions",
+    "created_at": "2023-08-06 11:28:52"
   },
   {
     "dealer": "06040",
@@ -3071,8 +2821,8 @@
     "total_msrp": "57457.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Roof Rack Cross Bars[installed_msrp], Platinum Package, All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp], Cargo Net with Pouch[installed_msrp], Cargo Organizer[installed_msrp], Mudguards[installed_msrp], Entertainment Package, 1500W inverter [120v_cargo], Owner's Portfolio",
-    "created_at": "2023-08-05 11:28:26"
+    "packages": "Mudguards[installed_msrp], Body Side Molding[installed_msrp], Emergency Assistance Kit[installed_msrp], Cargo Organizer[installed_msrp], Platinum Package, Roof Rack Cross Bars[installed_msrp], 50 State Emissions, 1500W inverter [120v_cargo], Entertainment Package, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Cargo Net with Pouch[installed_msrp], Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2023-08-06 11:28:54"
   },
   {
     "dealer": "06037",
@@ -3096,8 +2846,8 @@
     "total_msrp": "50484.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Owner's Portfolio, Special Color, XSE Plus Package, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Entertainment Package, Quick Charge Cable Package[installed_msrp], Body Side Molding[installed_msrp], 50 State Emissions, Spare tire, Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:28:26"
+    "packages": "50 State Emissions, Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp], XSE Plus Package, Owner's Portfolio, Special Color, All-Weather Floor Liner Package[installed_msrp], Spare tire, Body Side Molding[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package",
+    "created_at": "2023-08-06 11:28:55"
   },
   {
     "dealer": "06037",
@@ -3121,8 +2871,8 @@
     "total_msrp": "57429.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Body Side Molding[installed_msrp], Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Rear Bumper Applique[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Entertainment Package, 1500W inverter [120v_cargo], Quick Charge Cable Package[installed_msrp], Special Color, 50 State Emissions, Platinum Package",
-    "created_at": "2023-08-05 11:28:26"
+    "packages": "Platinum Package, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package, Special Color, Rear Bumper Applique[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Body Side Molding[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], Owner's Portfolio",
+    "created_at": "2023-08-06 11:28:55"
   },
   {
     "dealer": "28024",
@@ -3146,8 +2896,8 @@
     "total_msrp": "38889.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Door Sill Protectors[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Roof rails [roof_rack], Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:28:30"
+    "packages": "50 State Emissions, Door Sill Protectors[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], Roof rails [roof_rack], Mudguards[installed_msrp]",
+    "created_at": "2023-08-06 11:28:59"
   },
   {
     "dealer": "28024",
@@ -3171,8 +2921,33 @@
     "total_msrp": "54979.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "1500W inverter [120v_cargo], 50 State Emissions, Mudguards[installed_msrp], Entertainment Package, Special Color, Roof Rack Cross Bars[installed_msrp]",
-    "created_at": "2023-08-05 11:28:30"
+    "packages": "Entertainment Package, Mudguards[installed_msrp], 50 State Emissions, Roof Rack Cross Bars[installed_msrp], 1500W inverter [120v_cargo], Special Color",
+    "created_at": "2023-08-06 11:28:59"
+  },
+  {
+    "dealer": "20109",
+    "dealer_name": "Bernardi Toyota",
+    "dealer_url": "https://www.bernarditoyota.com",
+    "dealer_state": "MA",
+    "dealerPhone": "(978) 263-1500",
+    "dealerAddress": "221 Great Road, Littleton MA 01460",
+    "vin": "5TDJSKFC9PS098707",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "XLE",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "All-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Midnight Black Metallic",
+    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
+    "base_msrp": "44195",
+    "total_msrp": "48514.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], XLE Plus Package, Door Sill Protectors[installed_msrp], Mudguards[installed_msrp], 1500W inverter [120v_cargo], Tri-Fold Cargo Liner[installed_msrp]",
+    "created_at": "2023-08-06 11:29:03"
   },
   {
     "dealer": "31112",
@@ -3196,8 +2971,8 @@
     "total_msrp": "57123.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Door Sill Protectors[installed_msrp], Platinum Package, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Rear Bumper Applique[installed_msrp], Body Side Molding[installed_msrp], Entertainment Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
-    "created_at": "2023-08-05 11:28:38"
+    "packages": "1500W inverter [120v_cargo], Platinum Package, Door Sill Protectors[installed_msrp], Entertainment Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Mudguards[installed_msrp], Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Rear Bumper Applique[installed_msrp]",
+    "created_at": "2023-08-06 11:29:06"
   },
   {
     "dealer": "31113",
@@ -3221,33 +2996,8 @@
     "total_msrp": "49989.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Spare tire, XSE Plus Package, Body Side Molding[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo], Entertainment Package",
-    "created_at": "2023-08-05 11:28:40"
-  },
-  {
-    "dealer": "31069",
-    "dealer_name": "Hoselton Toyota",
-    "dealer_url": "https://www.hoseltontoyota.com",
-    "dealer_state": "NY",
-    "dealerPhone": "(716) 763-3300",
-    "dealerAddress": "215 East Fairmount Avenue, Lakewood NY 14750",
-    "vin": "5TDDSKFC0PS098415",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "xse",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Cement",
-    "interior": "Gray Flannel + Black Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "45205",
-    "total_msrp": "50218.0",
-    "availability_date": null,
-    "total_packages": 13,
-    "packages": "Entertainment Package, Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo], Owner's Portfolio, XSE Plus Package, 50 State Emissions, Cargo Tote[installed_msrp], Body Side Molding[installed_msrp], Door Sill Protectors[installed_msrp], Mudguards[installed_msrp], Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2023-08-05 11:28:42"
+    "packages": "Body Side Molding[installed_msrp], Entertainment Package, Mudguards[installed_msrp], 1500W inverter [120v_cargo], XSE Plus Package, 50 State Emissions, Spare tire, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2023-08-06 11:29:08"
   },
   {
     "dealer": "21119",
@@ -3271,17 +3021,67 @@
     "total_msrp": "39234.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Body Side Molding[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Roof rails [roof_rack], Spare tire",
-    "created_at": "2023-08-05 11:28:45"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], Spare tire, Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Roof rails [roof_rack]",
+    "created_at": "2023-08-06 11:29:14"
   },
   {
-    "dealer": "34129",
-    "dealer_name": "Toyota West",
-    "dealer_url": "https://www.toyotawestohio.com",
+    "dealer": "34025",
+    "dealer_name": "Tansky Sawmill Toyota",
+    "dealer_url": "https://www.tanskysawmilltoyota.com",
     "dealer_state": "OH",
-    "dealerPhone": "(888) 368-7666",
-    "dealerAddress": "1599 Columbus Pike, Delaware OH 43015",
-    "vin": "5TDJRKEC2PS173034",
+    "dealerPhone": "(800) 400-9420",
+    "dealerAddress": "1903 Riverway Drive, Lancaster OH 43130",
+    "vin": "5TDKRKECXPS173402",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "le",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "Front-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Predawn Gray Mica",
+    "interior": "Gray Woven Fabric",
+    "base_msrp": "36885",
+    "total_msrp": "39513.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Spare tire, Body Side Molding[installed_msrp], Roof rails [roof_rack], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp]",
+    "created_at": "2023-08-06 11:29:18"
+  },
+  {
+    "dealer": "34025",
+    "dealer_name": "Tansky Sawmill Toyota",
+    "dealer_url": "https://www.tanskysawmilltoyota.com",
+    "dealer_state": "OH",
+    "dealerPhone": "(800) 400-9420",
+    "dealerAddress": "1903 Riverway Drive, Lancaster OH 43130",
+    "vin": "5TDKRKEC0PS172095",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "le",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "Front-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Ice Cap",
+    "interior": "Gray Woven Fabric",
+    "base_msrp": "36885",
+    "total_msrp": "39588.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Quick Charge Cable Package[installed_msrp], Alloy Wheel Locks[installed_msrp], 50 State Emissions, Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Roof rails [roof_rack], Body Side Molding[installed_msrp], Spare tire",
+    "created_at": "2023-08-06 11:29:18"
+  },
+  {
+    "dealer": "34025",
+    "dealer_name": "Tansky Sawmill Toyota",
+    "dealer_url": "https://www.tanskysawmilltoyota.com",
+    "dealer_state": "OH",
+    "dealerPhone": "(800) 400-9420",
+    "dealerAddress": "1903 Riverway Drive, Lancaster OH 43130",
+    "vin": "5TDYRKEC3PS173123",
     "year": "2023",
     "vehicle": "sienna",
     "model": "XLE",
@@ -3293,11 +3093,86 @@
     "color": "Midnight Black Metallic",
     "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
     "base_msrp": "42195",
-    "total_msrp": "47980.0",
+    "total_msrp": "44913.0",
     "availability_date": null,
-    "total_packages": 9,
-    "packages": "Owner's Portfolio, Roof Rack Cross Bars[installed_msrp], 1500W inverter [120v_cargo], Spare tire, All-Weather Floor Liner Package[installed_msrp], Cargo Tray[installed_msrp], XLE Plus Package, Entertainment Package, 50 State Emissions",
-    "created_at": "2023-08-05 11:28:50"
+    "total_packages": 7,
+    "packages": "50 State Emissions, Body Side Molding[installed_msrp], Tri-Fold Cargo Liner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Roof rails [roof_rack]",
+    "created_at": "2023-08-06 11:29:18"
+  },
+  {
+    "dealer": "34025",
+    "dealer_name": "Tansky Sawmill Toyota",
+    "dealer_url": "https://www.tanskysawmilltoyota.com",
+    "dealer_state": "OH",
+    "dealerPhone": "(800) 400-9420",
+    "dealerAddress": "1903 Riverway Drive, Lancaster OH 43130",
+    "vin": "5TDYRKEC8PS172761",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "XLE",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "Front-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Windchill Pearl [extra_cost_color]",
+    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
+    "base_msrp": "42195",
+    "total_msrp": "45238.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "Mudguards[installed_msrp], Alloy Wheel Locks[installed_msrp], 50 State Emissions, Body Side Molding[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Roof rails [roof_rack], Special Color",
+    "created_at": "2023-08-06 11:29:18"
+  },
+  {
+    "dealer": "34025",
+    "dealer_name": "Tansky Sawmill Toyota",
+    "dealer_url": "https://www.tanskysawmilltoyota.com",
+    "dealer_state": "OH",
+    "dealerPhone": "(800) 400-9420",
+    "dealerAddress": "1903 Riverway Drive, Lancaster OH 43130",
+    "vin": "5TDJRKEC6PS173098",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "XLE",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "Front-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Blueprint",
+    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
+    "base_msrp": "42195",
+    "total_msrp": "47578.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "Spare tire, XLE Plus Package, 18-in. Alloy Wheel, Mudguards[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions",
+    "created_at": "2023-08-06 11:29:18"
+  },
+  {
+    "dealer": "34129",
+    "dealer_name": "Toyota West",
+    "dealer_url": "https://www.toyotawestohio.com",
+    "dealer_state": "OH",
+    "dealerPhone": "(888) 368-7666",
+    "dealerAddress": "1599 Columbus Pike, Delaware OH 43015",
+    "vin": "5TDYSKFC1PS099395",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "XLE",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "All-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Celestial Silver Metallic",
+    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
+    "base_msrp": "44195",
+    "total_msrp": "46130.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "50 State Emissions, Owner's Portfolio, Cargo Tray[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Roof rails [roof_rack]",
+    "created_at": "2023-08-06 11:29:19"
   },
   {
     "dealer": "34116",
@@ -3321,33 +3196,8 @@
     "total_msrp": "57788.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Platinum Package, Rear Bumper Applique[installed_msrp], Special Color, Entertainment Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Body Side Molding[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Roof Rack Cross Bars[installed_msrp], 1500W inverter [120v_cargo], Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2023-08-05 11:28:51"
-  },
-  {
-    "dealer": "34121",
-    "dealer_name": "Premier Toyota of Amherst",
-    "dealer_url": "https://www.premiertoyota.com",
-    "dealer_state": "OH",
-    "dealerPhone": "(800) 589-8797",
-    "dealerAddress": "1363 W. Old Lincoln Way, Wooster OH 44691",
-    "vin": "5TDKSKFC0PS099166",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "le",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Blueprint",
-    "interior": "Gray Woven Fabric",
-    "base_msrp": "38885",
-    "total_msrp": "40949.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "Mudguards[installed_msrp], 50 State Emissions, First Aid Kit w/ PPE[installed_msrp], Roof rails [roof_rack], Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Spare tire, Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2023-08-05 11:28:52"
+    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Mudguards[installed_msrp], Special Color, Platinum Package, Rear Bumper Applique[installed_msrp], 1500W inverter [120v_cargo], Body Side Molding[installed_msrp], Roof Rack Cross Bars[installed_msrp], Quick Charge Cable Package[installed_msrp], Entertainment Package, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2023-08-06 11:29:20"
   },
   {
     "dealer": "34121",
@@ -3371,8 +3221,8 @@
     "total_msrp": "46254.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, Tri-Fold Cargo Liner[installed_msrp], Mudguards[installed_msrp], Roof rails [roof_rack], Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2023-08-05 11:28:52"
+    "packages": "Tri-Fold Cargo Liner[installed_msrp], Roof rails [roof_rack], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Owner's Portfolio, Mudguards[installed_msrp]",
+    "created_at": "2023-08-06 11:29:21"
   },
   {
     "dealer": "34109",
@@ -3396,8 +3246,33 @@
     "total_msrp": "56833.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Platinum Package, Entertainment Package, 50 State Emissions, 1500W inverter [120v_cargo], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Rear Bumper Applique[installed_msrp], Owner's Portfolio, Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:28:53"
+    "packages": "Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 1500W inverter [120v_cargo], Rear Bumper Applique[installed_msrp], Owner's Portfolio, Entertainment Package, 50 State Emissions, Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Platinum Package",
+    "created_at": "2023-08-06 11:29:22"
+  },
+  {
+    "dealer": "34130",
+    "dealer_name": "White's Toyota of Lima",
+    "dealer_url": "https://www.whitestoyotalima.com",
+    "dealer_state": "OH",
+    "dealerPhone": "(800) 474-7884",
+    "dealerAddress": "722 Allegheny Blvd., Franklin PA 16323",
+    "vin": "5TDJRKEC5PS172671",
+    "year": "2023",
+    "vehicle": "sienna",
+    "model": "XLE",
+    "enginge": "2.5-Liter Hybrid",
+    "transmission": "ECVT",
+    "drivetrain": "Front-Wheel Drive",
+    "cab": null,
+    "bed": null,
+    "color": "Midnight Black Metallic",
+    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
+    "base_msrp": "42195",
+    "total_msrp": "48319.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Spare tire, 1500W inverter [120v_cargo], Roof Rack Cross Bars[installed_msrp], Mudguards[installed_msrp], XLE Plus Package, Quick Charge Cable Package[installed_msrp], 50 State Emissions, Body Side Molding[installed_msrp], Entertainment Package",
+    "created_at": "2023-08-06 11:29:24"
   },
   {
     "dealer": "34096",
@@ -3421,33 +3296,8 @@
     "total_msrp": "44679.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "50 State Emissions, Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], Roof rails [roof_rack], Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:28:56"
-  },
-  {
-    "dealer": "37176",
-    "dealer_name": "Toyota of Scranton",
-    "dealer_url": "https://www.toyotaofscranton.com",
-    "dealer_state": "PA",
-    "dealerPhone": "(570) 820-6812",
-    "dealerAddress": "150 Motorworld Drive, Wilkes Barre PA 18702",
-    "vin": "5TDDSKFC9PS096999",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "xse",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Cement",
-    "interior": "Gray Flannel + Black Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "45205",
-    "total_msrp": "48638.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "XSE Plus Package, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Door Sill Protectors[installed_msrp], Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:28:59"
+    "packages": "Roof Rack Cross Bars[installed_msrp], Body Side Molding[installed_msrp], Roof rails [roof_rack], 50 State Emissions, Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp]",
+    "created_at": "2023-08-06 11:29:25"
   },
   {
     "dealer": "12077",
@@ -3471,8 +3321,8 @@
     "total_msrp": "48324.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, 1500W inverter [120v_cargo], XSE Plus Package, Spare tire, All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp]",
-    "created_at": "2023-08-05 11:29:01"
+    "packages": "Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], XSE Plus Package, 1500W inverter [120v_cargo], 50 State Emissions, Spare tire",
+    "created_at": "2023-08-06 11:29:29"
   },
   {
     "dealer": "12013",
@@ -3496,83 +3346,8 @@
     "total_msrp": "50472.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "Cargo Organizer[installed_msrp], XSE Plus Package, 50 State Emissions, Quick Charge Cable Package[installed_msrp], Mudguards[installed_msrp], Rear Bumper Applique[installed_msrp], Alloy Wheel Locks[installed_msrp], Entertainment Package, 1500W inverter [120v_cargo], Spare tire, Body Side Molding[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Door Sill Protectors[installed_msrp]",
-    "created_at": "2023-08-05 11:29:03"
-  },
-  {
-    "dealer": "12133",
-    "dealer_name": "Romeoville Toyota",
-    "dealer_url": "https://www.romeovilletoyota.com",
-    "dealer_state": "IL",
-    "dealerPhone": "(708) 435-2205",
-    "dealerAddress": "4320 West 95th Street, Oak Lawn IL 60453",
-    "vin": "5TDJRKEC7PS172610",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "XLE",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "Front-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Predawn Gray Mica",
-    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "42195",
-    "total_msrp": "47448.0",
-    "availability_date": null,
-    "total_packages": 12,
-    "packages": "Quick Charge Cable Package[installed_msrp], 1500W inverter [120v_cargo], XLE Plus Package, Roof Rack Cross Bars[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Body Side Molding[installed_msrp], Door Sill Protectors[installed_msrp], Alloy Wheel Locks[installed_msrp], Tri-Fold Cargo Liner[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], 50 State Emissions",
-    "created_at": "2023-08-05 11:29:04"
-  },
-  {
-    "dealer": "12133",
-    "dealer_name": "Romeoville Toyota",
-    "dealer_url": "https://www.romeovilletoyota.com",
-    "dealer_state": "IL",
-    "dealerPhone": "(708) 435-2205",
-    "dealerAddress": "4320 West 95th Street, Oak Lawn IL 60453",
-    "vin": "5TDJSKFC1PS099219",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "XLE",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Blueprint",
-    "interior": "Graphite Embossed Softex\u00ae\u00a0[softex]",
-    "base_msrp": "44195",
-    "total_msrp": "51313.0",
-    "availability_date": null,
-    "total_packages": 14,
-    "packages": "50 State Emissions, Door Sill Protectors[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Roof Rack Cross Bars[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Mudguards[installed_msrp], 1500W inverter [120v_cargo], XLE Plus Package, Entertainment Package, Spare tire, Alloy Wheel Locks[installed_msrp], Quick Charge Cable Package[installed_msrp], 18-in. Alloy Wheel, Body Side Molding[installed_msrp]",
-    "created_at": "2023-08-05 11:29:04"
-  },
-  {
-    "dealer": "13045",
-    "dealer_name": "Royal South Toyota",
-    "dealer_url": "https://www.royalsouthtoyota.com",
-    "dealer_state": "IN",
-    "dealerPhone": "(800) 830-6250",
-    "dealerAddress": "10255 N. U.S. Highway 31, Taylorsville IN 47280",
-    "vin": "5TDZSKFC1PS098316",
-    "year": "2023",
-    "vehicle": "sienna",
-    "model": "limited",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
-    "drivetrain": "All-Wheel Drive",
-    "cab": null,
-    "bed": null,
-    "color": "Windchill Pearl [extra_cost_color]",
-    "interior": "Graphite Leather",
-    "base_msrp": "51145",
-    "total_msrp": "55434.0",
-    "availability_date": null,
-    "total_packages": 9,
-    "packages": "50 State Emissions, Door Sill Protectors[installed_msrp], Special Color, Entertainment Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, Tri-Fold Cargo Liner[installed_msrp], Mudguards[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 1500W inverter [120v_cargo]",
-    "created_at": "2023-08-05 11:29:09"
+    "packages": "Spare tire, XSE Plus Package, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Entertainment Package, Rear Bumper Applique[installed_msrp], Alloy Wheel Locks[installed_msrp], Door Sill Protectors[installed_msrp], Quick Charge Cable Package[installed_msrp], Body Side Molding[installed_msrp], Cargo Organizer[installed_msrp]",
+    "created_at": "2023-08-06 11:29:30"
   },
   {
     "dealer": "13069",
@@ -3596,8 +3371,8 @@
     "total_msrp": "42969.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Mudguards[installed_msrp], 50 State Emissions, LE Plus Package, All-Weather Floor Liner Package[installed_msrp], Door Sill Protectors[installed_msrp]",
-    "created_at": "2023-08-05 11:29:10"
+    "packages": "LE Plus Package, All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Door Sill Protectors[installed_msrp]",
+    "created_at": "2023-08-06 11:29:37"
   },
   {
     "dealer": "48039",
@@ -3621,7 +3396,7 @@
     "total_msrp": "44425.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Special Color, Roof rails [roof_rack]",
-    "created_at": "2023-08-05 11:29:10"
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color, Roof rails [roof_rack], Owner's Portfolio",
+    "created_at": "2023-08-06 11:29:37"
   }
 ]
