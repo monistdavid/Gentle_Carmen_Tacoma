@@ -10,8 +10,8 @@
     "year": "2023",
     "vehicle": "sienna",
     "model": "limited",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
+    "enginge": "2.5L Hybrid Engine",
+    "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
     "drivetrain": "All-Wheel Drive",
     "cab": null,
     "bed": null,
@@ -21,8 +21,8 @@
     "total_msrp": "54880.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, Special Color, Entertainment Package, 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-03-12 11:26:34"
+    "packages": "1500W inverter [120v_cargo], Special Color, Entertainment Package, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-03-13 11:26:23"
   },
   {
     "dealer": "42344",
@@ -35,8 +35,8 @@
     "year": "2023",
     "vehicle": "sienna",
     "model": "SWE",
-    "enginge": "Hybrid 2.5 Liter",
-    "transmission": "ECVT",
+    "enginge": "2.5L Hybrid Engine",
+    "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
     "drivetrain": "All-Wheel Drive",
     "cab": null,
     "bed": null,
@@ -46,8 +46,8 @@
     "total_msrp": "52360.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "50 State Emissions, Cargo Net[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Rear Seat Entertainment System-, Illuminated Door Sills[gst_global_lio_disclaimer], Body Side Molding[gst_global_lio_disclaimer], WOODLAND EDITION, Cargo Organizer, Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-03-12 11:26:47"
+    "packages": "Rear Seat Entertainment System-, Body Side Molding[gst_global_lio_disclaimer], Cargo Organizer, Cargo Net[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Illuminated Door Sills[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], WOODLAND EDITION, Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-03-13 11:26:33"
   },
   {
     "dealer": "35074",
@@ -60,8 +60,8 @@
     "year": "2023",
     "vehicle": "sienna",
     "model": "xse",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
+    "enginge": "2.5L Hybrid Engine",
+    "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
     "drivetrain": "All-Wheel Drive",
     "cab": null,
     "bed": null,
@@ -71,8 +71,8 @@
     "total_msrp": "48200.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Spare tire, 50 State Emissions, XSE Plus Package, Special Color",
-    "created_at": "2024-03-12 11:26:59"
+    "packages": "Special Color, 50 State Emissions, XSE Plus Package, Spare tire",
+    "created_at": "2024-03-13 11:26:42"
   },
   {
     "dealer": "35055",
@@ -85,8 +85,8 @@
     "year": "2023",
     "vehicle": "sienna",
     "model": "le",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
+    "enginge": "2.5L Hybrid Engine",
+    "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
     "drivetrain": "Front-Wheel Drive",
     "cab": null,
     "bed": null,
@@ -96,8 +96,8 @@
     "total_msrp": "40122.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Illuminated Door Sills[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Cargo Net[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Roof rails [roof_rack], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-03-12 11:27:07"
+    "packages": "Cargo Net[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Illuminated Door Sills[gst_global_lio_disclaimer], Mud Guards[gst_global_lio_disclaimer], Roof rails [roof_rack], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-03-13 11:26:48"
   },
   {
     "dealer": "47028",
@@ -110,8 +110,8 @@
     "year": "2023",
     "vehicle": "sienna",
     "model": "xse",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
+    "enginge": "2.5L Hybrid Engine",
+    "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
     "drivetrain": "Front-Wheel Drive",
     "cab": null,
     "bed": null,
@@ -121,8 +121,8 @@
     "total_msrp": "47908.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Owner's Portfolio, Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], 1500W inverter [120v_cargo], 50 State Emissions, XSE Plus Package, Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-03-12 11:27:45"
+    "packages": "1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], Paint Protection Film (Hood, Fenders, Mirror Backs and Door Cups)[installed_msrp], Owner's Portfolio, XSE Plus Package, Quick Charge Cable Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-03-13 11:27:17"
   },
   {
     "dealer": "45040",
@@ -135,8 +135,8 @@
     "year": "2023",
     "vehicle": "sienna",
     "model": "le",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
+    "enginge": "2.5L Hybrid Engine",
+    "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
     "drivetrain": "All-Wheel Drive",
     "cab": null,
     "bed": null,
@@ -146,8 +146,8 @@
     "total_msrp": "41169.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Body Side Molding[installed_msrp], Alloy Wheel Locks[installed_msrp], Spare tire, Mudguards[installed_msrp], 50 State Emissions, Roof rails [roof_rack], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-03-12 11:27:50"
+    "packages": "Spare tire, Mudguards[installed_msrp], 50 State Emissions, Roof rails [roof_rack], Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Body Side Molding[installed_msrp]",
+    "created_at": "2024-03-13 11:27:22"
   },
   {
     "dealer": "29083",
@@ -160,8 +160,8 @@
     "year": "2023",
     "vehicle": "sienna",
     "model": "limited",
-    "enginge": "2.5-Liter Hybrid",
-    "transmission": "ECVT",
+    "enginge": "2.5L Hybrid Engine",
+    "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
     "drivetrain": "All-Wheel Drive",
     "cab": null,
     "bed": null,
@@ -171,7 +171,7 @@
     "total_msrp": "55054.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Entertainment Package, Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver, 50 State Emissions, Body Side Molding[installed_msrp], 1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp]",
-    "created_at": "2024-03-12 11:28:08"
+    "packages": "1500W inverter [120v_cargo], All-Weather Floor Liner Package[installed_msrp], Mudguards[installed_msrp], 50 State Emissions, Entertainment Package, Body Side Molding[installed_msrp], Digital Rearview Mirror with HomeLink\u00ae Universal Transceiver",
+    "created_at": "2024-03-13 11:27:35"
   }
 ]
